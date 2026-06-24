@@ -1,81 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<products generated="2026-06-22T19:36:32Z" count="72">
+<products generated="2026-06-24T14:38:24Z" count="72">
+  <product>
+    <sku>EN0195</sku>
+    <ean>8718144240337</ean>
+    <title>Tryptozol 300mg</title>
+    <description>L-Tryptofaan (capsule)</description>
+    <price>40.11</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f13da0cc-4e71-4654-a1b7-6b531b475e1a~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/tryptozol-300mg</url>
+  </product>
   <product>
     <sku>EN0195</sku>
     <ean>8718144240337</ean>
     <title>Tryptozol 300mg</title>
     <description>L-tryptophane (gélule)</description>
-    <price>41.25</price>
+    <price>40.11</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f13da0cc-4e71-4654-a1b7-6b531b475e1a~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/tryptozol-300mg</url>
+    <url>https://www.energeticanatura.com/fr-be/produits/tryptozol-300mg</url>
   </product>
   <product>
-    <sku>AZ3058</sku>
-    <ean>0780053033421</ean>
-    <title>Taurine</title>
-    <description>Puur taurine in capsulevorm</description>
-    <price>29.87</price>
+    <sku>EN0195</sku>
+    <ean>8718144240337</ean>
+    <title>Tryptozol 300mg</title>
+    <description>L-tryptophane (gélule)</description>
+    <price>39.92</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac1c2115-bf6a-4823-8cf9-34995288219e~127.png</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/taurine</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f13da0cc-4e71-4654-a1b7-6b531b475e1a~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/tryptozol-300mg</url>
   </product>
   <product>
-    <sku>AZ3058</sku>
-    <ean>0780053033421</ean>
-    <title>Taurine</title>
-    <description>Taurine pure en gélules</description>
-    <price>29.87</price>
+    <sku>DE0400</sku>
+    <ean>8718144240818</ean>
+    <title>Entsäuerungssalz</title>
+    <description>Entsäuerungssalz</description>
+    <price>21.37</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac1c2115-bf6a-4823-8cf9-34995288219e~127.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/taurine</url>
-  </product>
-  <product>
-    <sku>EN0222</sku>
-    <ean>8718144240160</ean>
-    <title>MSM 1000mg</title>
-    <description>MSM (gélule)</description>
-    <price>29.60</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ba1956ee-5733-4caf-827c-8e82ef86f793~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/msm-1000mg</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/001ed034-d643-4384-821d-7243b16242cc~128.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/entsaeuerungssalz</url>
   </product>
   <product>
     <sku>EN0222</sku>
     <ean>8718144240160</ean>
     <title>MSM 1000mg</title>
     <description>MSM (capsule)</description>
-    <price>30.59</price>
+    <price>29.74</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ba1956ee-5733-4caf-827c-8e82ef86f793~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/msm-1000mg</url>
+    <url>https://www.energeticanatura.com/nl-be/producten/msm-1000mg</url>
   </product>
   <product>
-    <sku>EN0222</sku>
-    <ean>8718144240160</ean>
-    <title>MSM 1000mg</title>
-    <description>MSM (gélule)</description>
-    <price>30.59</price>
+    <sku>ZZ9546</sku>
+    <ean>0780053001741</ean>
+    <title>IPS</title>
+    <description>Planten en voedingsstoffen voor de darmwand</description>
+    <price>50.90</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ba1956ee-5733-4caf-827c-8e82ef86f793~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/msm-1000mg</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0d1ba417-3a9f-4975-a793-b247c6025a14~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/ips</url>
   </product>
   <product>
-    <sku>DE0222</sku>
-    <ean>8718144240856</ean>
-    <title>MSM 1000mg</title>
-    <description>MSM (Kapsel)</description>
-    <price>30.02</price>
+    <sku>ZZ9546</sku>
+    <ean>0780053001741</ean>
+    <title>IPS</title>
+    <description>Plantes et nutriments pour la paroi intestinale</description>
+    <price>50.90</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/40de9e02-210c-40fb-ac44-eab2bb7ebb2d~127.png</image>
-    <url>https://www.energeticanatura.com/de/produkte/msm-1000mg</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6b99664f-044d-440f-b82e-627fb08ee1d1~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/ips</url>
   </product>
   <product>
     <sku>ZZ9546</sku>
@@ -100,696 +100,696 @@
     <url>https://www.energeticanatura.com/nl-nl/producten/ips</url>
   </product>
   <product>
-    <sku>ZZ9546</sku>
-    <ean>0780053001741</ean>
-    <title>IPS</title>
-    <description>Plantes et nutriments pour la paroi intestinale</description>
-    <price>52.34</price>
+    <sku>ZZ9583</sku>
+    <ean>0780053003851</ean>
+    <title>Rhodiola Complex</title>
+    <description>Rhodiola en bijniercofactoren</description>
+    <price>40.86</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6b99664f-044d-440f-b82e-627fb08ee1d1~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/ips</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/263cbbe3-90e7-43c0-9777-5b64239262f5~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/rhodiola-complex</url>
   </product>
   <product>
-    <sku>CQ3229</sku>
-    <ean>0780053033568</ean>
-    <title>Coq-Zyme 100 Plus</title>
-    <description>Coenzyme Q10 émulsionnée avec 7 cofacteurs</description>
-    <price>86.78</price>
+    <sku>ZZ9583</sku>
+    <ean>0780053003851</ean>
+    <title>Rhodiola Complex</title>
+    <description>Rhodiola et cofacteurs surrénaux</description>
+    <price>40.86</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/581b7665-ecb8-4786-810e-1c76330ced9d~144.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/coq-zyme-100-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/263cbbe3-90e7-43c0-9777-5b64239262f5~127.png</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/rhodiola-complex</url>
   </product>
   <product>
-    <sku>CQ3229</sku>
-    <ean>0780053033568</ean>
-    <title>Coq-Zyme 100 Plus</title>
-    <description>Coenzyme Q10 émulsionnée avec 7 cofacteurs</description>
-    <price>86.37</price>
+    <sku>DE9583</sku>
+    <ean>0780053083211</ean>
+    <title>Rhodiola Complex</title>
+    <description>Rhodiola und Nebennieren-Cofaktoren</description>
+    <price>40.11</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/581b7665-ecb8-4786-810e-1c76330ced9d~144.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/coq-zyme-100-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f11d3b99-0b97-4c16-9c63-8f19a9c28cf2~127.jpg</image>
+    <url>https://www.energeticanatura.com/de/produkte/rhodiola-complex</url>
   </product>
   <product>
     <sku>CQ3229</sku>
     <ean>0780053033568</ean>
     <title>Coq-Zyme 100 Plus</title>
     <description>Geëmulgeerde coenzym Q10 met 7 cofactoren</description>
-    <price>89.24</price>
+    <price>86.78</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b3e80554-53d3-4579-94e5-a6cea922472c~144.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/coq-zyme-100-plus</url>
+    <url>https://www.energeticanatura.com/nl-be/producten/coq-zyme-100-plus</url>
   </product>
   <product>
-    <sku>AZ3016</sku>
-    <ean>0780053033353</ean>
-    <title>Amino Sport</title>
-    <description>Complexe d’acides aminés pour sportifs</description>
-    <price>82.86</price>
+    <sku>AO3410</sku>
+    <ean>0780053033339</ean>
+    <title>Protect Plus</title>
+    <description>Vaste complexe d’antioxydants</description>
+    <price>50.89</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c155d477-4d5a-4303-a617-647202e7d3df~127.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/amino-sport</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/protect-plus</url>
   </product>
   <product>
-    <sku>AZ3016</sku>
-    <ean>0780053033353</ean>
-    <title>Amino Sport</title>
-    <description>Complexe d’acides aminés pour sportifs</description>
-    <price>82.47</price>
+    <sku>AO3410</sku>
+    <ean>0780053033339</ean>
+    <title>Protect Plus</title>
+    <description>Vaste complexe d’antioxydants</description>
+    <price>50.65</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c155d477-4d5a-4303-a617-647202e7d3df~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/amino-sport</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/protect-plus</url>
   </product>
   <product>
-    <sku>AZ3016</sku>
-    <ean>0780053033353</ean>
-    <title>Amino Sport</title>
-    <description>Aminozurencomplex voor sporters</description>
-    <price>85.21</price>
+    <sku>AO3410</sku>
+    <ean>0780053033339</ean>
+    <title>Protect Plus</title>
+    <description>Breed antioxidantencomplex</description>
+    <price>52.33</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c155d477-4d5a-4303-a617-647202e7d3df~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/amino-sport</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/protect-plus</url>
   </product>
   <product>
-    <sku>AZ3016</sku>
-    <ean>0780053033353</ean>
-    <title>Amino Sport</title>
-    <description>Complexe d’acides aminés pour sportifs</description>
-    <price>85.21</price>
+    <sku>AO3410</sku>
+    <ean>0780053033339</ean>
+    <title>Protect Plus</title>
+    <description>Vaste complexe d’antioxydants</description>
+    <price>52.33</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c155d477-4d5a-4303-a617-647202e7d3df~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/amino-sport</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/protect-plus</url>
   </product>
   <product>
-    <sku>ZZ9590</sku>
-    <ean>0780053035012</ean>
-    <title>Berberol Forte</title>
-    <description>Complex van berberine, chroom en niacine</description>
-    <price>45.70</price>
+    <sku>ZZ9578</sku>
+    <ean>0780053010743</ean>
+    <title>SAMethylate Plus</title>
+    <description>SAMe (S-adenosyl-methionine) met cofactoren</description>
+    <price>94.98</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d5b5782a-0900-4ef3-a556-0bbe4da4eeac~144.png</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/berberol-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/652b0800-ea33-4784-96c9-a67bd2931a9b~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/samethylate-plus</url>
   </product>
   <product>
-    <sku>ZZ9590</sku>
-    <ean>0780053035012</ean>
-    <title>Berberol Forte</title>
-    <description>Complexe de berbérine, chrome et niacine</description>
-    <price>45.70</price>
+    <sku>ZZ9578</sku>
+    <ean>0780053010743</ean>
+    <title>SAMethylate Plus</title>
+    <description>SAMe (S-adénosyl-méthionine) avec cofacteurs</description>
+    <price>94.98</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/77fac5e4-4d6e-4506-8371-f72bc907ba91~144.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/berberol-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/652b0800-ea33-4784-96c9-a67bd2931a9b~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/samethylate-plus</url>
   </product>
   <product>
-    <sku>ZZ9590</sku>
-    <ean>0780053035012</ean>
-    <title>Berberol Forte</title>
-    <description>Complexe de berbérine, chrome et niacine</description>
-    <price>45.48</price>
+    <sku>ZZ9578</sku>
+    <ean>0780053010743</ean>
+    <title>SAMethylate Plus</title>
+    <description>SAMe (S-adénosyl-méthionine) avec cofacteurs</description>
+    <price>94.53</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/77fac5e4-4d6e-4506-8371-f72bc907ba91~144.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/berberol-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/652b0800-ea33-4784-96c9-a67bd2931a9b~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/samethylate-plus</url>
   </product>
   <product>
-    <sku>VD1521</sku>
-    <ean>0780053000492</ean>
-    <title>D-Mulsion Forte (Vitamine D)</title>
-    <description>Geëmulgeerde vitamine D - hooggedoseerd (druppel)</description>
-    <price>38.70</price>
+    <sku>ZZ9578</sku>
+    <ean>0780053010743</ean>
+    <title>SAMethylate Plus</title>
+    <description>SAMe (S-adenosyl-methionine) met cofactoren</description>
+    <price>97.66</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7c2d0b7b-5526-4682-905e-2530f9f593c7~127.png</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/d-mulsion-forte-vitamine-d</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/652b0800-ea33-4784-96c9-a67bd2931a9b~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/samethylate-plus</url>
   </product>
   <product>
-    <sku>VD1521</sku>
-    <ean>0780053000492</ean>
-    <title>D-Mulsion Forte (Vitamine D)</title>
-    <description>Vitamine D émulsionnée - hautement dosée (goutte)</description>
-    <price>38.70</price>
+    <sku>VD1520</sku>
+    <ean>0780053034336</ean>
+    <title>D-Mulsion (Vitamine D)</title>
+    <description>Geëmulgeerde vitamine D (druppel)</description>
+    <price>25.11</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/dae87048-51d0-4a41-9fd2-fe2b9c5661a4~127.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/d-mulsion-forte-vitamine-d</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4fb9e35b-7d79-4c76-88a3-a038855152cf~127.png</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/d-mulsion-vitamine-d</url>
   </product>
   <product>
-    <sku>VD1521</sku>
-    <ean>0780053000492</ean>
-    <title>D-Mulsion Forte (Vitamine D)</title>
-    <description>Vitamine D émulsionnée - hautement dosée (goutte)</description>
-    <price>38.52</price>
+    <sku>VD1520</sku>
+    <ean>0780053034336</ean>
+    <title>D-Mulsion (Vitamine D)</title>
+    <description>Vitamine D émulsionnée (goutte)</description>
+    <price>25.11</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/dae87048-51d0-4a41-9fd2-fe2b9c5661a4~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/d-mulsion-forte-vitamine-d</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/37d14b11-0195-4cb2-a0b9-66524e405776~127.png</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/d-mulsion-vitamine-d</url>
   </product>
   <product>
-    <sku>VX1946</sku>
-    <ean>0780053034497</ean>
-    <title>Multi-Plus-liquide</title>
-    <description>Préparation liquide à base de multivitamines et de minéraux</description>
-    <price>60.09</price>
+    <sku>VD1520</sku>
+    <ean>0780053034336</ean>
+    <title>D-Mulsion (Vitamine D)</title>
+    <description>Vitamine D émulsionnée (goutte)</description>
+    <price>24.99</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/multi-plus-liquide</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/37d14b11-0195-4cb2-a0b9-66524e405776~127.png</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/d-mulsion-vitamine-d</url>
   </product>
   <product>
-    <sku>VX1946</sku>
-    <ean>0780053034497</ean>
-    <title>Multi-Plus-vloeibaar</title>
-    <description>Vloeibaar multivitamine- en mineralenpreparaat</description>
-    <price>62.09</price>
+    <sku>VD1520</sku>
+    <ean>0780053034336</ean>
+    <title>D-Mulsion (Vitamine D)</title>
+    <description>Geëmulgeerde vitamine D (druppel)</description>
+    <price>25.82</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/multi-plus-vloeibaar</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4fb9e35b-7d79-4c76-88a3-a038855152cf~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/d-mulsion-vitamine-d</url>
   </product>
   <product>
-    <sku>VX1946</sku>
-    <ean>0780053034497</ean>
-    <title>Multi-Plus-liquide</title>
-    <description>Préparation liquide à base de multivitamines et de minéraux</description>
-    <price>62.09</price>
+    <sku>EN0475</sku>
+    <ean>8426690000052</ean>
+    <title>Resium</title>
+    <description>Reinigende kruidendrank met o.a. kweekwortel en paardenbloem</description>
+    <price>37.53</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/multi-plus-liquide</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f188c373-40eb-4e3b-b25c-84117b942e12~127.png</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/resium</url>
   </product>
   <product>
-    <sku>NI0004</sku>
-    <ean>0684088334068</ean>
-    <title>Argentyn 23 Ion Water - Polyseal</title>
-    <description>Zilverhydrosol (ultrafijne oplossing)</description>
-    <price>52.81</price>
+    <sku>EN0475</sku>
+    <ean>8426690000052</ean>
+    <title>Resium</title>
+    <description>Boisson détoxifiante à base d’herbes avec Triticum Repens et le pissenlit, entre autres</description>
+    <price>37.53</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/eef3dc72-1d9f-4e8f-ac95-c28fb1ffe51d~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/argentyn-23-ion-water-polyseal</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f188c373-40eb-4e3b-b25c-84117b942e12~127.png</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/resium</url>
   </product>
   <product>
-    <sku>NI0004</sku>
-    <ean>0684088334068</ean>
-    <title>Argentyn 23 Ion Water - Polyseal</title>
-    <description>Hydrosol d’argent (solution ultrafine)</description>
-    <price>52.81</price>
+    <sku>NI0035</sku>
+    <ean>0684088600019</ean>
+    <title>Argentyn 23 - First Aid Gel</title>
+    <description>Gel professionnel de premiers soins à base d’argent - Gel antibactérien, antiviral et antifongique</description>
+    <price>30.95</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/eef3dc72-1d9f-4e8f-ac95-c28fb1ffe51d~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/argentyn-23-ion-water-polyseal</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0a182175-2685-4485-bc0b-bdcc3287ee1e~128.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/argentyn-23-first-aid-gel</url>
   </product>
   <product>
-    <sku>NI0014</sku>
-    <ean>0684088234030</ean>
-    <title>Sovereign Silver Ion Water - Mist Spray</title>
-    <description>Bio-actief zilverhydrosol</description>
-    <price>24.06</price>
-    <available>false</available>
-    <quantity>0</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e8b23393-9796-461d-ad12-c47d08e0e8ae~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/sovereign-silver-ion-water-mist-spray</url>
-  </product>
-  <product>
-    <sku>MG2450</sku>
-    <ean>0780053034183</ean>
-    <title>Acti-Mag Plus (magnésium) | Goût naturel de baies</title>
-    <description>Préparation à base de magnésium, avec goût naturel de baies, vitamines B actives et taurine</description>
-    <price>58.32</price>
+    <sku>NI0035</sku>
+    <ean>0684088600019</ean>
+    <title>Argentyn 23 - First Aid Gel</title>
+    <description>Professionele Eerste Hulp Zilver Gel - Antibacteriële, antivirale en antischimmelgel</description>
+    <price>31.21</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f9353d10-ec22-40e0-9272-e4f52c6dccf5~144.jpg</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/acti-mag-plus-magnesium-gout-naturel-de-baies</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0a182175-2685-4485-bc0b-bdcc3287ee1e~128.jpg</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/argentyn-23-first-aid-gel</url>
   </product>
   <product>
-    <sku>MG2450</sku>
-    <ean>0780053034183</ean>
-    <title>Acti-Mag Plus (magnésium) | Goût naturel de baies</title>
-    <description>Préparation à base de magnésium, avec goût naturel de baies, vitamines B actives et taurine</description>
-    <price>58.05</price>
+    <sku>NI0035</sku>
+    <ean>0684088600019</ean>
+    <title>Argentyn 23 - First Aid Gel</title>
+    <description>Gel professionnel de premiers soins à base d’argent - Gel antibactérien, antiviral et antifongique</description>
+    <price>31.21</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f9353d10-ec22-40e0-9272-e4f52c6dccf5~144.jpg</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/acti-mag-plus-magnesium-gout-naturel-de-baies</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0a182175-2685-4485-bc0b-bdcc3287ee1e~128.jpg</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/argentyn-23-first-aid-gel</url>
   </product>
   <product>
-    <sku>MG2450</sku>
-    <ean>0780053034183</ean>
-    <title>Acti-Mag Plus (magnesium) | Natuurlijke bessensmaak</title>
-    <description>Magnesiumpreparaat met natuurlijke bessensmaak, actieve B-vitamines en taurine</description>
-    <price>59.97</price>
+    <sku>ZZ9515</sku>
+    <ean>0780053012228</ean>
+    <title>Bi-Omega Liquid</title>
+    <description>Huile de poisson liquide, hautement purifiée, avec une très forte concentration en EPA et DHA</description>
+    <price>76.41</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f9353d10-ec22-40e0-9272-e4f52c6dccf5~144.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/acti-mag-plus-magnesium-natuurlijke-bessensmaak</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ffcc85b0-7a9d-4318-bb31-c490fafe1095~143.png</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/bi-omega-liquid</url>
   </product>
   <product>
-    <sku>MG2450</sku>
-    <ean>0780053034183</ean>
-    <title>Acti-Mag Plus (magnésium) | Goût naturel de baies</title>
-    <description>Préparation à base de magnésium, avec goût naturel de baies, vitamines B actives et taurine</description>
-    <price>59.97</price>
+    <sku>ZZ9515</sku>
+    <ean>0780053012228</ean>
+    <title>Bi-Omega Liquid</title>
+    <description>Vloeibare, hoog gezuiverde natuurlijke visolie, met een zeer hoge concentratie EPA en DHA</description>
+    <price>78.95</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f9353d10-ec22-40e0-9272-e4f52c6dccf5~144.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/acti-mag-plus-magnesium-gout-naturel-de-baies</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d1356ce4-f1b3-4f63-9c05-e7a841a79fac~143.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/bi-omega-liquid</url>
   </product>
   <product>
-    <sku>ZZ9504</sku>
-    <ean>0780053009617</ean>
-    <title>Electrolyte Forte</title>
-    <description>Elektrolytenformule met taurine en antioxidanten</description>
-    <price>45.91</price>
+    <sku>ZZ9515</sku>
+    <ean>0780053012228</ean>
+    <title>Bi-Omega Liquid</title>
+    <description>Huile de poisson liquide, hautement purifiée, avec une très forte concentration en EPA et DHA</description>
+    <price>78.95</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/electrolyte-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ffcc85b0-7a9d-4318-bb31-c490fafe1095~143.png</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/bi-omega-liquid</url>
   </product>
   <product>
-    <sku>ZZ9504</sku>
-    <ean>0780053009617</ean>
-    <title>Electrolyte Forte</title>
-    <description>Formule électrolyte avec taurine et antioxydants</description>
-    <price>45.91</price>
+    <sku>DE9515</sku>
+    <ean>0780053012235</ean>
+    <title>Bi-Omega Liquid</title>
+    <description>Flüssiges, hochreines, natürliches Fischöl, mit einer sehr hohen Konzentration an EPA und DHA</description>
+    <price>77.50</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/electrolyte-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/47a4c89c-9f0a-46fc-a93f-592b71b24ce2~143.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/bi-omega-liquid</url>
   </product>
   <product>
-    <sku>ZZ9504</sku>
-    <ean>0780053009617</ean>
-    <title>Electrolyte Forte</title>
-    <description>Formule électrolyte avec taurine et antioxydants</description>
-    <price>45.69</price>
+    <sku>ZZ9586</sku>
+    <ean>0780053035005</ean>
+    <title>TMG Powder</title>
+    <description>Triméthylglycine (TMG, poudre)</description>
+    <price>54.35</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/electrolyte-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/tmg-powder</url>
   </product>
   <product>
-    <sku>ZZ9504</sku>
-    <ean>0780053009617</ean>
-    <title>Electrolyte Forte</title>
-    <description>Elektrolytenformule met taurine en antioxidanten</description>
-    <price>47.21</price>
+    <sku>ZZ9586</sku>
+    <ean>0780053035005</ean>
+    <title>TMG Powder</title>
+    <description>Triméthylglycine (TMG, poudre)</description>
+    <price>54.09</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/electrolyte-forte</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/tmg-powder</url>
   </product>
   <product>
-    <sku>DE1751</sku>
-    <ean>0780053082733</ean>
-    <title>Blackcurrant Seed Oil (GLA)</title>
-    <description>Samenöl der schwarzen Johannisbeere</description>
-    <price>40.35</price>
+    <sku>ZZ9586</sku>
+    <ean>0780053035005</ean>
+    <title>TMG Powder</title>
+    <description>Trimethylglycine (TMG, poeder)</description>
+    <price>55.88</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/fd1c384b-2d43-43e1-a46e-8e397c649989~127.jpg</image>
-    <url>https://www.energeticanatura.com/de/produkte/blackcurrant-seed-oil-gla</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/tmg-powder</url>
   </product>
   <product>
-    <sku>ZZ9518</sku>
-    <ean>0780053034633</ean>
-    <title>Bi-Omega-1000</title>
-    <description>Natuurlijke, hoog gezuiverde visolie als triglyceriden. Hoge concentratie EPA en DHA.</description>
-    <price>67.86</price>
+    <sku>ZZ9586</sku>
+    <ean>0780053035005</ean>
+    <title>TMG Powder</title>
+    <description>Triméthylglycine (TMG, poudre)</description>
+    <price>55.88</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7ad03612-ba90-4e93-a871-43d8e1d8d007~144.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/bi-omega-1000</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/tmg-powder</url>
   </product>
   <product>
-    <sku>ZZ9518</sku>
-    <ean>0780053034633</ean>
-    <title>Bi-Omega-1000</title>
-    <description>Huile de poisson pure sous forme de triglycérides. Haute concentration EPA et DHA.</description>
-    <price>67.86</price>
+    <sku>DE9586</sku>
+    <ean>0780053083273</ean>
+    <title>TMG Powder</title>
+    <description>Trimethylglycin (TMG, Pulver)</description>
+    <price>54.86</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7ad03612-ba90-4e93-a871-43d8e1d8d007~144.jpg</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/bi-omega-1000</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/2885ed08-f686-40b5-8ee2-36e4d44f812c~127.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/tmg-powder</url>
   </product>
   <product>
-    <sku>ZZ9518</sku>
-    <ean>0780053034633</ean>
-    <title>Bi-Omega-1000</title>
-    <description>Huile de poisson pure sous forme de triglycérides. Haute concentration EPA et DHA.</description>
-    <price>67.54</price>
+    <sku>EN0389</sku>
+    <ean>08718144241204</ean>
+    <title>Collagen SkinComplete</title>
+    <description>Formule complète et efficace à base de collagène marin, d'acide hyaluronique, d'extrait de pépins de raisin, de silicium et de nutriments essentiels, pour une peau saine</description>
+    <price>55.88</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7ad03612-ba90-4e93-a871-43d8e1d8d007~144.jpg</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/bi-omega-1000</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/af49f064-8a0e-4773-8459-381bb3305040~147.png</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/collagen-skincomplete</url>
   </product>
   <product>
-    <sku>ZZ9518</sku>
-    <ean>0780053034633</ean>
-    <title>Bi-Omega-1000</title>
-    <description>Natuurlijke, hoog gezuiverde visolie als triglyceriden. Hoge concentratie EPA en DHA.</description>
-    <price>69.78</price>
+    <sku>DE0389</sku>
+    <ean>08718144241211</ean>
+    <title>Collagen SkinComplete</title>
+    <description>Umfassende und wirksame Formel mit Meereskollagen, Hyaluronsäure, Traubenkernextrakt, Silicium und essenziellen Nährstoffen für eine gesunde Haut.</description>
+    <price>54.86</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7ad03612-ba90-4e93-a871-43d8e1d8d007~144.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/bi-omega-1000</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/33398941-87ca-4887-997d-40ea5ff268f2~147.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/collagen-skincomplete</url>
   </product>
   <product>
-    <sku>GL5075</sku>
-    <ean>0780053033957</ean>
-    <title>Pneuma-Zyme</title>
-    <description>Long glandular met ondersteunende voedingsstoffen</description>
-    <price>45.10</price>
+    <sku>VF1720</sku>
+    <ean>0780053034381</ean>
+    <title>Flax Seed Oil</title>
+    <description>Lijnzaadolie van biologische teelt, koud geperst</description>
+    <price>36.61</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/912bb83a-7d31-4bcb-82b0-a5b7fd0e99ee~127.png</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/pneuma-zyme</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/33c247cb-388c-443d-b52d-2b3bccd30899~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/flax-seed-oil</url>
   </product>
   <product>
-    <sku>GL5075</sku>
-    <ean>0780053033957</ean>
-    <title>Pneuma-Zyme</title>
-    <description>Glandulaire pulmonaire avec nutriments de soutien</description>
-    <price>45.10</price>
+    <sku>VF1720</sku>
+    <ean>0780053034381</ean>
+    <title>Flax Seed Oil</title>
+    <description>Huile de lin de l’agriculture biologique, pressée à froid</description>
+    <price>36.61</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/912bb83a-7d31-4bcb-82b0-a5b7fd0e99ee~127.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/pneuma-zyme</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/33c247cb-388c-443d-b52d-2b3bccd30899~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/flax-seed-oil</url>
   </product>
   <product>
-    <sku>GL5075</sku>
-    <ean>0780053033957</ean>
-    <title>Pneuma-Zyme</title>
-    <description>Glandulaire pulmonaire avec nutriments de soutien</description>
-    <price>44.89</price>
+    <sku>ZN2814</sku>
+    <ean>0780053034534</ean>
+    <title>Zn-Zyme (zinc)</title>
+    <description>Zinc (citrate, gluconate)</description>
+    <price>23.62</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/912bb83a-7d31-4bcb-82b0-a5b7fd0e99ee~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/pneuma-zyme</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/de9ee652-e8b5-4207-8af7-1e31a3b7bb79~127.png</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/zn-zyme-zinc</url>
   </product>
   <product>
-    <sku>DE2620</sku>
-    <ean>0780053083105</ean>
-    <title>Mo-Zyme</title>
-    <description>Molybdän</description>
-    <price>23.68</price>
+    <sku>ZN2814</sku>
+    <ean>0780053034534</ean>
+    <title>Zn-Zyme (zink)</title>
+    <description>Zink (citraat, gluconaat)</description>
+    <price>24.41</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/3621cf90-d017-4665-bf46-61649d768abc~127.png</image>
-    <url>https://www.energeticanatura.com/de/produkte/mo-zyme</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/de9ee652-e8b5-4207-8af7-1e31a3b7bb79~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/zn-zyme-zink</url>
   </product>
   <product>
-    <sku>VB1169</sku>
-    <ean>0780053034282</ean>
-    <title>Methylfolate Plus</title>
-    <description>Hoog gedoseerd actief foliumzuur (MTHF) met vitamine B12</description>
-    <price>39.35</price>
+    <sku>ZN2814</sku>
+    <ean>0780053034534</ean>
+    <title>Zn-Zyme (zinc)</title>
+    <description>Zinc (citrate, gluconate)</description>
+    <price>24.41</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e4aabbb3-7890-4f7e-9865-227d7c597def~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/methylfolate-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/de9ee652-e8b5-4207-8af7-1e31a3b7bb79~127.png</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/zn-zyme-zinc</url>
   </product>
   <product>
-    <sku>VB1169</sku>
-    <ean>0780053034282</ean>
-    <title>Methylfolate Plus</title>
-    <description>Acide folique actif hautement dosé (MTHF) avec vitamine B12</description>
-    <price>39.35</price>
+    <sku>DE2814</sku>
+    <ean>0780053083310</ean>
+    <title>Zn-Zyme (Zink)</title>
+    <description>Zink (Citrat, Gluconat)</description>
+    <price>23.96</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e4aabbb3-7890-4f7e-9865-227d7c597def~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/methylfolate-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b9401b68-6dde-4772-b2cc-b1c47d385e45~127.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/zn-zyme-zink</url>
   </product>
   <product>
-    <sku>KR4271</sku>
-    <ean>0780053034121</ean>
-    <title>Garlic Plus</title>
-    <description>Knoflookextract met vitamine C en chorofyl</description>
-    <price>43.74</price>
+    <sku>GL5043</sku>
+    <ean>0780053033896</ean>
+    <title>Multi-Gland</title>
+    <description>Complexe glandulaire et organique</description>
+    <price>45.03</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e4ef1d66-9754-4cfb-b7b6-807837bf8317~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/garlic-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/multi-gland</url>
   </product>
   <product>
-    <sku>KR4271</sku>
-    <ean>0780053034121</ean>
-    <title>Garlic Plus</title>
-    <description>Extrait d’ail avec vitamine C et chlorophylle</description>
-    <price>43.74</price>
+    <sku>GL5043</sku>
+    <ean>0780053033896</ean>
+    <title>Multi-Gland</title>
+    <description>Complexe glandulaire et organique</description>
+    <price>44.82</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e4ef1d66-9754-4cfb-b7b6-807837bf8317~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/garlic-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/multi-gland</url>
   </product>
   <product>
-    <sku>DE4271</sku>
-    <ean>0780053082955</ean>
-    <title>Knoblauch Plus</title>
-    <description>Knoblauchextrakt mit Vitamin C und Chorophyll</description>
-    <price>42.94</price>
+    <sku>GL5043</sku>
+    <ean>0780053033896</ean>
+    <title>Multi-Gland</title>
+    <description>Klier- en organencomplex (glandulars)</description>
+    <price>46.30</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/8675830e-8ec5-4c9d-83a1-19aeacf74919~127.jpg</image>
-    <url>https://www.energeticanatura.com/de/produkte/knoblauch-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/multi-gland</url>
+  </product>
+  <product>
+    <sku>EN3130</sku>
+    <ean>0780053033698</ean>
+    <title>Hydro-Zyme</title>
+    <description>Complexe de bétaïne HCl, acide glutamique, pancréatine et B6</description>
+    <price>25.78</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/48e5d03f-19e7-429f-a6ac-702cb950fe83~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/hydro-zyme</url>
+  </product>
+  <product>
+    <sku>EN3130</sku>
+    <ean>0780053033698</ean>
+    <title>Hydro-Zyme</title>
+    <description>Complexe de bétaïne HCl, acide glutamique, pancréatine et B6</description>
+    <price>25.66</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/48e5d03f-19e7-429f-a6ac-702cb950fe83~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/hydro-zyme</url>
+  </product>
+  <product>
+    <sku>EN3130</sku>
+    <ean>0780053033698</ean>
+    <title>Hydro-Zyme</title>
+    <description>Complex van betaïne HCl, glutaminezuur, pancreatine en B6</description>
+    <price>26.51</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/9eb50e16-84af-409a-b138-d6e74565ef5c~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/hydro-zyme</url>
+  </product>
+  <product>
+    <sku>EN3130</sku>
+    <ean>0780053033698</ean>
+    <title>Hydro-Zyme</title>
+    <description>Complexe de bétaïne HCl, acide glutamique, pancréatine et B6</description>
+    <price>26.51</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/48e5d03f-19e7-429f-a6ac-702cb950fe83~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/hydro-zyme</url>
   </product>
   <product>
     <sku>VU1815</sku>
     <ean>0780053034435</ean>
     <title>Gastrazyme</title>
-    <description>Vitamine-U-complex voor de maag</description>
-    <price>43.25</price>
+    <description>Complexe vitamine U pour l’estomac</description>
+    <price>44.47</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/db2a5520-64d9-4602-a8ef-cc431723d2f5~144.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/gastrazyme</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f33cff06-6430-4275-a9c2-aac7baf0f24e~144.jpg</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/gastrazyme</url>
   </product>
   <product>
-    <sku>GL5010</sku>
-    <ean>0780053033797</ean>
-    <title>Cytozyme-AD</title>
-    <description>Glandulaire surrénalien</description>
-    <price>36.69</price>
+    <sku>DE1815</sku>
+    <ean>0780053082368</ean>
+    <title>Gastrazyme</title>
+    <description>Vitamin U-Komplex für den Magen</description>
+    <price>43.66</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf9f00a3-c941-4efd-a3a9-0b00af22715a~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/cytozyme-ad</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/2d425a3d-62e1-4609-a63e-1732582c4073~127.png</image>
+    <url>https://www.energeticanatura.com/de/produkte/gastrazyme</url>
   </product>
   <product>
-    <sku>GL5010</sku>
-    <ean>0780053033797</ean>
-    <title>Cytozyme-AD</title>
-    <description>Glandular van de bijnier</description>
-    <price>37.91</price>
+    <sku>ZZ9541</sku>
+    <ean>0780053010606</ean>
+    <title>Gammanol Forte</title>
+    <description>Gamma-oryzanol en ferulazuur</description>
+    <price>53.21</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4ed7624f-8943-41fd-8420-497c73ea1b64~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/cytozyme-ad</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/841b69ba-cb84-4375-80c4-2af1233dc92c~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/gammanol-forte</url>
   </product>
   <product>
-    <sku>GL5010</sku>
-    <ean>0780053033797</ean>
-    <title>Cytozyme-AD</title>
-    <description>Glandulaire surrénalien</description>
-    <price>37.91</price>
+    <sku>ZZ9541</sku>
+    <ean>0780053010606</ean>
+    <title>Gammanol Forte</title>
+    <description>Gamma-oryzanol et acide férulique</description>
+    <price>53.21</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf9f00a3-c941-4efd-a3a9-0b00af22715a~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/cytozyme-ad</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/841b69ba-cb84-4375-80c4-2af1233dc92c~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/gammanol-forte</url>
   </product>
   <product>
-    <sku>GL5025</sku>
-    <ean>0780053033858</ean>
-    <title>Cytozyme-F</title>
-    <description>Complexe de glandulaires pour la femme</description>
+    <sku>GL5085</sku>
+    <ean>0780053033964</ean>
+    <title>Cytozyme-PT/HPT</title>
+    <description>Glandular van hypofyse/hypothalamus</description>
+    <price>31.94</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/9bf12dd3-329f-4050-80e9-a177e63343e6~127.png</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/cytozyme-pthpt</url>
+  </product>
+  <product>
+    <sku>GL5085</sku>
+    <ean>0780053033964</ean>
+    <title>Cytozyme-PT/HPT</title>
+    <description>Hypofyse/hypothalamusglandular</description>
+    <price>31.94</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/9bf12dd3-329f-4050-80e9-a177e63343e6~127.png</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/cytozyme-pthpt</url>
+  </product>
+  <product>
+    <sku>GL5085</sku>
+    <ean>0780053033964</ean>
+    <title>Cytozyme-PT/HPT</title>
+    <description>Hypofyse/hypothalamusglandular</description>
     <price>31.79</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/80588f3f-7893-43e6-9199-53d705d34fcb~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/cytozyme-f</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/9bf12dd3-329f-4050-80e9-a177e63343e6~127.png</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/cytozyme-pthpt</url>
   </product>
   <product>
-    <sku>GL5025</sku>
-    <ean>0780053033858</ean>
-    <title>Cytozyme-F</title>
-    <description>Complex van glandulars voor de vrouw</description>
+    <sku>GL5085</sku>
+    <ean>0780053033964</ean>
+    <title>Cytozyme-PT/HPT</title>
+    <description>Glandular van hypofyse/hypothalamus</description>
     <price>32.84</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/80588f3f-7893-43e6-9199-53d705d34fcb~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/cytozyme-f</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/9bf12dd3-329f-4050-80e9-a177e63343e6~127.png</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/cytozyme-pthpt</url>
   </product>
   <product>
-    <sku>GL5025</sku>
-    <ean>0780053033858</ean>
-    <title>Cytozyme-F</title>
-    <description>Complexe de glandulaires pour la femme</description>
-    <price>32.84</price>
+    <sku>GL5015</sku>
+    <ean>0780053033810</ean>
+    <title>Cytozyme-B</title>
+    <description>Glandular van de hersenen</description>
+    <price>34.78</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/80588f3f-7893-43e6-9199-53d705d34fcb~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/cytozyme-f</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/87e68898-9ab5-44be-bd83-4cb6291532a3~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-be/producten/cytozyme-b</url>
   </product>
   <product>
-    <sku>EN3120</sku>
-    <ean>0780053033667</ean>
-    <title>Bromelaïne Plus</title>
-    <description>Lactosevrije bromelaïne samen met papaïne, inositol en cysteïne</description>
-    <price>34.69</price>
+    <sku>GL5015</sku>
+    <ean>0780053033810</ean>
+    <title>Cytozyme-B</title>
+    <description>Glandulaire cérébral</description>
+    <price>34.78</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/aa98fb08-c880-4dd5-aa14-8dbf6a25c549~127.png</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/bromelaine-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/87e68898-9ab5-44be-bd83-4cb6291532a3~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-be/produits/cytozyme-b</url>
+  </product>
+  <product>
+    <sku>GL5015</sku>
+    <ean>0780053033810</ean>
+    <title>Cytozyme-B</title>
+    <description>Glandulaire cérébral</description>
+    <price>34.61</price>
+    <available>true</available>
+    <quantity>100</quantity>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/87e68898-9ab5-44be-bd83-4cb6291532a3~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/cytozyme-b</url>
   </product>
   <product>
     <sku>EN3120</sku>
     <ean>0780053033667</ean>
     <title>Bromelaïne Plus</title>
     <description>Bromélaïne sans lactose avec papaïne, inositol et cystéine</description>
-    <price>34.69</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/aa98fb08-c880-4dd5-aa14-8dbf6a25c549~127.png</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/bromelaine-plus</url>
-  </product>
-  <product>
-    <sku>EN3120</sku>
-    <ean>0780053033667</ean>
-    <title>Bromelaïne Plus</title>
-    <description>Bromélaïne sans lactose avec papaïne, inositol et cystéine</description>
-    <price>34.53</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/aa98fb08-c880-4dd5-aa14-8dbf6a25c549~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/bromelaine-plus</url>
-  </product>
-  <product>
-    <sku>EN3120</sku>
-    <ean>0780053033667</ean>
-    <title>Bromelaïne Plus</title>
-    <description>Lactosevrije bromelaïne samen met papaïne, inositol en cysteïne</description>
     <price>35.68</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/aa98fb08-c880-4dd5-aa14-8dbf6a25c549~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/bromelaine-plus</url>
+    <url>https://www.energeticanatura.com/fr-lu/produits/bromelaine-plus</url>
   </product>
   <product>
-    <sku>EN3110</sku>
-    <ean>0780053033643</ean>
-    <title>Beta Plus</title>
-    <description>Concentré de betterave avec bile de bœuf et lipase pancréatique</description>
-    <price>34.45</price>
+    <sku>DE3120</sku>
+    <ean>0780053082337</ean>
+    <title>Bromelaïne Plus</title>
+    <description>Laktosefreies Bromelain zusammen mit Papain, Inosit und Cystein</description>
+    <price>35.02</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7efa9e09-931d-4e41-8f1d-2e2504e36cda~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/beta-plus</url>
-  </product>
-  <product>
-    <sku>EN3110</sku>
-    <ean>0780053033643</ean>
-    <title>Beta Plus</title>
-    <description>Rote-Bete-Konzentrat mit Ochsengalle und Pankreaslipase</description>
-    <price>33.82</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7efa9e09-931d-4e41-8f1d-2e2504e36cda~127.png</image>
-    <url>https://www.energeticanatura.com/de/produkte/beta-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/fc687d93-580e-4bb4-b870-da60edfb2c44~127.jpg</image>
+    <url>https://www.energeticanatura.com/de/produkte/bromelaine-plus</url>
   </product>
   <product>
     <sku>CA2110</sku>
     <ean>0780053033483</ean>
     <title>CMP-Minerals</title>
     <description>Complex van drie mineralen (calcium, magnesium en kalium)</description>
-    <price>24.14</price>
+    <price>24.82</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b2f83e1d-f8da-4a5f-81ba-4a9849143c63~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-be/producten/cmp-minerals</url>
+    <url>https://www.energeticanatura.com/nl-nl/producten/cmp-minerals</url>
   </product>
   <product>
     <sku>CA2110</sku>
     <ean>0780053033483</ean>
     <title>CMP-Minerals</title>
     <description>Complexe de trois minéraux (calcium, magnésium et potassium)</description>
-    <price>24.14</price>
+    <price>24.82</price>
     <available>true</available>
     <quantity>100</quantity>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b2f83e1d-f8da-4a5f-81ba-4a9849143c63~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-be/produits/cmp-minerals</url>
+    <url>https://www.energeticanatura.com/fr-lu/produits/cmp-minerals</url>
   </product>
   <product>
-    <sku>EN0196</sku>
-    <ean>8718144240344</ean>
-    <title>Tryptozol Plus</title>
-    <description>L-tryptophane avec cofacteurs</description>
-    <price>31.35</price>
+    <sku>EN0380</sku>
+    <ean>8718144241174</ean>
+    <title>Serozol</title>
+    <description>Safran avec entre autres 5 HTP, inositol</description>
+    <price>58.07</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f4d9fe8d-e3ed-4478-8ee3-7d93264e66e7~127.png</image>
-    <url>https://www.energeticanatura.com/fr-fr/produits/tryptozol-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/5541bfdd-5f3c-4315-9ff7-b29c69ade10e~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-fr/produits/serozol</url>
   </product>
   <product>
-    <sku>EN0196</sku>
-    <ean>8718144240344</ean>
-    <title>Tryptozol Plus</title>
-    <description>L-Tryptofaan met cofactoren</description>
-    <price>32.39</price>
+    <sku>EN0380</sku>
+    <ean>8718144241174</ean>
+    <title>Serozol</title>
+    <description>Saffraan met o.a. 5-HTP, inositol</description>
+    <price>59.99</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f4d9fe8d-e3ed-4478-8ee3-7d93264e66e7~127.png</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/tryptozol-plus</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/5541bfdd-5f3c-4315-9ff7-b29c69ade10e~127.jpg</image>
+    <url>https://www.energeticanatura.com/nl-nl/producten/serozol</url>
   </product>
   <product>
-    <sku>EN0196</sku>
-    <ean>8718144240344</ean>
-    <title>Tryptozol Plus</title>
-    <description>L-tryptophane avec cofacteurs</description>
-    <price>32.39</price>
+    <sku>EN0380</sku>
+    <ean>8718144241174</ean>
+    <title>Serozol</title>
+    <description>Safran avec entre autres 5 HTP, inositol</description>
+    <price>59.99</price>
     <available>true</available>
     <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f4d9fe8d-e3ed-4478-8ee3-7d93264e66e7~127.png</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/tryptozol-plus</url>
-  </product>
-  <product>
-    <sku>EN0518</sku>
-    <ean>8718144241150</ean>
-    <title>Lactoferrine VLF-1 (300 mg)</title>
-    <description>Hoogwaardige lactoferrine uit 100% niet-gedenatureerde Zwitserse koemelk</description>
-    <price>80.68</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c6f00e38-a850-4626-b2d9-5161bb01efbb~127.jpg</image>
-    <url>https://www.energeticanatura.com/nl-nl/producten/lactoferrine-vlf-1-300-mg</url>
-  </product>
-  <product>
-    <sku>EN0518</sku>
-    <ean>8718144241150</ean>
-    <title>Lactoferrine VLF-1 (300 mg)</title>
-    <description>Lactoferrine de haute qualité provenant à 100 % de lait de vache suisse non transformé</description>
-    <price>80.68</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c6f00e38-a850-4626-b2d9-5161bb01efbb~127.jpg</image>
-    <url>https://www.energeticanatura.com/fr-lu/produits/lactoferrine-vlf-1-300-mg</url>
-  </product>
-  <product>
-    <sku>DE0518</sku>
-    <ean>8718144241167</ean>
-    <title>Lactoferrine VLF-1 (300 mg)</title>
-    <description>Hochwertiges Lactoferrin aus 100% nicht denaturierter Schweizer Kuhmilch</description>
-    <price>79.20</price>
-    <available>true</available>
-    <quantity>100</quantity>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0d07431a-c76e-4b3c-9508-6303b132cd17~127.jpg</image>
-    <url>https://www.energeticanatura.com/de/produkte/lactoferrine-vlf-1-300-mg</url>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/5541bfdd-5f3c-4315-9ff7-b29c69ade10e~127.jpg</image>
+    <url>https://www.energeticanatura.com/fr-lu/produits/serozol</url>
   </product>
 </products>
