@@ -1,9 +1,10 @@
-name: Update Energetica Natura Feed
+name: Energetica Natura Feed Updater
 
 on:
   schedule:
-    - cron: "0 6 * * *"   # Dagelijks 06:00 UTC = 08:00 NL (zomer)
-  workflow_dispatch:        # Handmatig triggeren via GitHub UI
+    # 2x per dag (06:00 en 18:00 UTC) voor prijs + voorraad van bestaande producten.
+    - cron: "0 6,18 * * *"
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -13,21 +14,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.11
+      - name: Python instellen
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 lxml
+      - name: Dependencies installeren
+        run: pip install -r requirements.txt
 
-      - name: Run scraper
+      - name: Scraper draaien
         run: python scraper.py
 
-      - name: Commit and push feed
+      - name: XML committen en pushen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add energetica_natura_feed.xml
-          git diff --staged --quiet || git commit -m "Update feed — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git diff --staged --quiet || git commit -m "🔄 Feed bijgewerkt: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git pull --rebase origin main
           git push
