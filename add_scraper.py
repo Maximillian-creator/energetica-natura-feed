@@ -36,10 +36,10 @@ def add(parent, tag, value):
 
 
 def build_description_html(p):
-    """og:description + losse secties → één HTML-beschrijving."""
+    """Rijke product-beschrijving (al HTML) + losse feitelijke secties."""
     parts = []
     if p.get("description"):
-        parts.append(f"<p>{escape(p['description'])}</p>")
+        parts.append(p["description"])          # is al opgemaakte HTML
     for key, label in SECTION_LABELS:
         val = p["sections"].get(key)
         if val:

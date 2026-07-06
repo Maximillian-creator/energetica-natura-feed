@@ -279,6 +279,39 @@ def _sections(html):
     return out
 
 
+def _description_html(html):
+    """
+    De volledige rijke beschrijving uit de 'product-description'-sectie (kopjes,
+    alinea's, opsommingen, vet) — veel completer dan de korte og:description-meta.
+    Behoudt een whitelist van basis-tags en strip de rest.
+    """
+    m = re.search(
+        r'<div id="product-description"[^>]*class="[^"]*product-detail__section[^"]*">(.*?)'
+        r'(?=<div id="product-usage"|<div id="product-composition"|<div id="product-info")',
+        html, re.DOTALL,
+    )
+    if not m:
+        return ""
+    b = m.group(1)
+    b = re.sub(r"<h2[^>]*>.*?</h2>", "", b, flags=re.DOTALL)            # sectiekop weg
+    b = re.sub(r"<(script|style|figure|svg|button|a)[^>]*>.*?</\1>", "", b, flags=re.DOTALL | re.I)
+    b = re.sub(r"<img[^>]*>", "", b, flags=re.I)
+    keep = {"p", "ul", "ol", "li", "strong", "b", "em", "h3", "h4", "br"}
+
+    def _tag(mo):
+        slash = "/" if mo.group(1) else ""
+        tag = mo.group(2).lower()
+        return f"<{slash}{tag}>" if tag in keep else ""
+
+    b = re.sub(r"<(/?)(\w+)[^>]*>", _tag, b)
+    b = b.replace("&nbsp;", " ")
+    b = re.sub(r"[ \t]+", " ", b)
+    b = re.sub(r"\s*\n\s*", "", b)
+    b = re.sub(r"<p>\s*</p>", "", b)
+    b = re.sub(r"(<br>\s*){2,}", "<br>", b)
+    return b.strip()
+
+
 def _content(name):
     """Inhoud/verpakking uit de insider-naam: 'Titel - 90 capsules' → '90 capsules'."""
     if name and " - " in name:
@@ -334,7 +367,7 @@ def parse_product(html, slug):
         "stock_level": stock["stock_level"],
         "image": _meta(html, "og:image") or insider.get("product_image_url") or "",
         "images": _images(html, insider),
-        "description": _meta(html, "og:description") or "",
+        "description": _description_html(html) or _meta(html, "og:description") or "",
         "sections": _sections(html),
     }
 
