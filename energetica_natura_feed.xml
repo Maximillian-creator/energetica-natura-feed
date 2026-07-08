@@ -1162,7 +1162,7 @@
     <price>72.30</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>gsh-plus-gereduceerd-glutathion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f831f755-9739-47e8-8c52-51b768987231~127.png</image>
   </product>
@@ -1811,7 +1811,7 @@
     <price>97.66</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>samethylate-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/652b0800-ea33-4784-96c9-a67bd2931a9b~127.jpg</image>
   </product>
@@ -1844,7 +1844,7 @@
     <price>53.16</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>s-free</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f31413d5-82e0-4aee-9790-c834953ad1ff~127.jpg</image>
   </product>
