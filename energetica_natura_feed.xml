@@ -625,7 +625,7 @@
     <available>true</available>
     <quantity>100</quantity>
     <handle>collagen-skincomplete</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ed1af3c0-dbda-4a4f-ae5b-75d061ac88a5~147.png</image>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ed1af3c0-dbda-4a4f-ae5b-75d061ac88a5~148.png</image>
   </product>
   <product>
     <sku>EN0390</sku>
@@ -812,7 +812,7 @@
     <available>true</available>
     <quantity>100</quantity>
     <handle>cytozyme-m</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/21acd498-426e-4ce4-8337-692b35781011~147.png</image>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/21acd498-426e-4ce4-8337-692b35781011~148.jpg</image>
   </product>
   <product>
     <sku>GL5050</sku>
@@ -964,7 +964,7 @@
     <price>47.21</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>electrolyte-forte</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
   </product>
@@ -1318,7 +1318,7 @@
     <available>true</available>
     <quantity>100</quantity>
     <handle>klamazol-400mg</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4e802272-f2ba-4926-a357-99d0f47c9548~127.jpg</image>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4e802272-f2ba-4926-a357-99d0f47c9548~148.jpg</image>
   </product>
   <product>
     <sku>VK1790</sku>
@@ -1847,17 +1847,6 @@
     <quantity>100</quantity>
     <handle>s-free</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f31413d5-82e0-4aee-9790-c834953ad1ff~127.jpg</image>
-  </product>
-  <product>
-    <sku>NI0014</sku>
-    <barcode>0684088234030</barcode>
-    <title>Sovereign Silver Ion Water - Mist Spray</title>
-    <price>24.74</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>sovereign-silver-ion-water-mist-spray</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e8b23393-9796-461d-ad12-c47d08e0e8ae~127.jpg</image>
   </product>
   <product>
     <sku>SY0015</sku>
