@@ -106,7 +106,7 @@
     <price>31.88</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>aloepure</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e6ba2596-f85c-4aa4-9304-cf51dc0fc6f1~127.jpg</image>
   </product>
@@ -326,7 +326,7 @@
     <price>30.49</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>biocean-hypertonic-ampullen</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e14c53a5-c0dc-476c-af07-97b3d28f75ce~127.png</image>
   </product>
@@ -1657,7 +1657,7 @@
     <price>45.53</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>osteo-b-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f8ec0d41-028d-4bf6-a0cf-2aa41993a35d~127.png</image>
   </product>
