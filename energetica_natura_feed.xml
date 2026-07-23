@@ -40,7 +40,7 @@
     <price>59.97</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>acti-mag-magnesium-neutrale-smaak</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/dc810d87-e860-45d8-ac88-f41aa8310cf6~144.jpg</image>
   </product>
@@ -51,7 +51,7 @@
     <price>59.97</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>acti-mag-plus-magnesium-natuurlijke-bessensmaak</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f9353d10-ec22-40e0-9272-e4f52c6dccf5~144.jpg</image>
   </product>
@@ -139,7 +139,7 @@
     <price>85.21</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>amino-sport</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c155d477-4d5a-4303-a617-647202e7d3df~127.png</image>
   </product>
@@ -1657,7 +1657,7 @@
     <price>45.53</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>osteo-b-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f8ec0d41-028d-4bf6-a0cf-2aa41993a35d~127.png</image>
   </product>
