@@ -535,7 +535,7 @@
     <price>32.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>camg-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/faf19756-3107-4676-9370-194958b62c23~127.png</image>
   </product>
@@ -1348,8 +1348,8 @@
     <title>Lactoferrine VLF-1 (150 mg)</title>
     <price>48.47</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>lactoferrine-vlf-1-150-mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f696b3bd-c177-4e45-8229-5f18227da077~127.jpg</image>
   </product>
