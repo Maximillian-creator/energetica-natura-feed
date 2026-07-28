@@ -149,8 +149,8 @@
     <title>A-Mulsion</title>
     <price>25.67</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7233a26d-d87f-4161-992b-aa2d19b15f65~127.png</image>
   </product>
@@ -326,7 +326,7 @@
     <price>30.49</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>biocean-hypertonic-ampullen</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e14c53a5-c0dc-476c-af07-97b3d28f75ce~127.png</image>
   </product>
@@ -535,7 +535,7 @@
     <price>32.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>camg-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/faf19756-3107-4676-9370-194958b62c23~127.png</image>
   </product>
@@ -1755,8 +1755,8 @@
     <title>Renal Plus</title>
     <price>44.90</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>renal-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/50d47636-aff8-4284-9809-052b336401ab~127.png</image>
   </product>
