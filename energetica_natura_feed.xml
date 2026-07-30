@@ -1173,7 +1173,7 @@
     <price>49.00</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>gta</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7b7c9326-43bd-4a45-85f6-f1c057b6b35c~127.png</image>
   </product>
@@ -1591,7 +1591,7 @@
     <price>92.18</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>nitrogreens</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e9bf4ea6-23c0-4add-953e-88b80995dcfd~127.png</image>
   </product>
