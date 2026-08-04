@@ -887,7 +887,7 @@
     <price>51.11</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>dk-mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/411f8e27-9f5d-4e0e-9d1e-ad170655c0b8~127.png</image>
   </product>
@@ -1591,7 +1591,7 @@
     <price>92.18</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>nitrogreens</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e9bf4ea6-23c0-4add-953e-88b80995dcfd~127.png</image>
   </product>
