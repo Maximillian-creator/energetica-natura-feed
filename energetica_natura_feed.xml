@@ -985,8 +985,8 @@
     <title>E-Mulsion Forte (vitamine E)</title>
     <price>27.20</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>e-mulsion-forte-vitamine-e</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/45100ba0-4317-4d95-b827-d5ffbd584955~128.jpg</image>
   </product>
