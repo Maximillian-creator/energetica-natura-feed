@@ -61,8 +61,8 @@
     <title>Acti-Mag Tabs (magnesium)</title>
     <price>26.25</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>acti-mag-tabs-magnesium</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/af08239f-eeb3-4db3-9a28-e43279009f78~127.png</image>
   </product>
@@ -963,8 +963,8 @@
     <title>Electrolyte Forte</title>
     <price>47.21</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>electrolyte-forte</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac085781-3f76-4bfa-a348-c7991310648e~127.jpg</image>
   </product>
@@ -1557,8 +1557,8 @@
     <title>Multi-Plus-vloeibaar</title>
     <price>62.09</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>multi-plus-vloeibaar</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
   </product>
