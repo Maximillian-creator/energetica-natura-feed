@@ -980,17 +980,6 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/cd2f783e-b61d-4b0c-8142-001f65ee3ec3~128.jpg</image>
   </product>
   <product>
-    <sku>VE1670</sku>
-    <barcode>0780053034367</barcode>
-    <title>E-Mulsion Forte (vitamine E)</title>
-    <price>27.20</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>e-mulsion-forte-vitamine-e</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/45100ba0-4317-4d95-b827-d5ffbd584955~128.jpg</image>
-  </product>
-  <product>
     <sku>VX1945</sku>
     <barcode>0780053002960</barcode>
     <title>Equi-Fem</title>
