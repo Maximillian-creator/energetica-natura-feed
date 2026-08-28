@@ -650,17 +650,6 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/3f0e183a-8aa0-4135-829c-e8476a20f7b1~127.png</image>
   </product>
   <product>
-    <sku>ZZ9536</sku>
-    <barcode>0780053034732</barcode>
-    <title>Colon-Plus Caps</title>
-    <price>39.36</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <handle>colon-plus-caps</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7466a3a0-09a9-4475-877e-4f2ee42d6fa2~127.png</image>
-  </product>
-  <product>
     <sku>CQ3229</sku>
     <barcode>0780053033568</barcode>
     <title>Coq-Zyme 100 Plus</title>
@@ -1154,17 +1143,6 @@
     <quantity>100</quantity>
     <handle>gsh-plus-gereduceerd-glutathion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f831f755-9739-47e8-8c52-51b768987231~127.png</image>
-  </product>
-  <product>
-    <sku>GL5022</sku>
-    <barcode>0780053033834</barcode>
-    <title>GTA</title>
-    <price>49.00</price>
-    <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
-    <handle>gta</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7b7c9326-43bd-4a45-85f6-f1c057b6b35c~127.png</image>
   </product>
   <product>
     <sku>GL5023</sku>
@@ -1717,17 +1695,6 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
   </product>
   <product>
-    <sku>VX1943</sku>
-    <barcode>0780053010453</barcode>
-    <title>Receptor Support</title>
-    <price>47.76</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <handle>receptor-support</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/83a975e5-6112-4ffc-8f37-1eed6c2c4083~144.png</image>
-  </product>
-  <product>
     <sku>EN0474</sku>
     <barcode>8718144240481</barcode>
     <title>Relax Caps</title>
@@ -1748,17 +1715,6 @@
     <quantity>100</quantity>
     <handle>renal-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/50d47636-aff8-4284-9809-052b336401ab~151.png</image>
-  </product>
-  <product>
-    <sku>EN0475</sku>
-    <barcode>8426690000052</barcode>
-    <title>Resium</title>
-    <price>38.60</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <handle>resium</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f188c373-40eb-4e3b-b25c-84117b942e12~127.png</image>
   </product>
   <product>
     <sku>ZZ9521</sku>
