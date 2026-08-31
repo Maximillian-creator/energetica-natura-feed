@@ -70,8 +70,13 @@ def make_session():
     return s
 
 
-def fetch(session, url, retries=3, allow_404=False):
-    """GET met retry. Bij 404 (en allow_404) → None zonder herhalen."""
+def fetch(session, url, retries=3, allow_404=False, verplicht=False):
+    """GET met retry. Bij 404 (en allow_404) → None zonder herhalen.
+
+    `verplicht=True`: een pagina die na alle pogingen niet komt is een FOUT, geen
+    stilzwijgend `None`. Een 404 blijft ook dan gewoon None — die betekent "geen
+    product", niet "de bron is stuk". Zie `iter_product_slugs` voor het waarom.
+    """
     for attempt in range(retries):
         try:
             r = session.get(url, timeout=20)
@@ -89,7 +94,53 @@ def fetch(session, url, retries=3, allow_404=False):
                 time.sleep(wait)
             else:
                 print(f"    ❌ Mislukt na {retries} pogingen: {url} ({e})")
+                if verplicht:
+                    raise RuntimeError(
+                        f"{url} kwam na {retries} pogingen niet binnen ({e}). "
+                        "De run stopt: een halve catalogus wegschrijven laat "
+                        "Stock Sync de rest archiveren."
+                    )
                 return None
+
+
+# --------------------------------------------------------------------------- #
+# De rem: nooit een halve feed wegschrijven
+# --------------------------------------------------------------------------- #
+def controleer_omvang(aantal, filepath, tag="<product>"):
+    """Stop de run bij een lege of gehalveerde feed.
+
+    Stock Sync zet producten die niet in de feed staan op *gearchiveerd*, stil en
+    zonder melding. Op 17-07-2026 om 19:47 schreef deze scraper 40 van de 183
+    producten weg; de Stock Sync-run van 18-07 om 03:07 archiveerde er 137, en
+    die stonden 44 dagen uit Google. Ook 22-06 t/m 03-07 draaide de feed op
+    68–97 producten.
+
+    Een halve uitkomst mag daarom niet worden weggeschreven: dan blijft de vorige
+    (goede) feed staan en wordt de GitHub Action rood. Krimpt de leverancier écht,
+    dan overrulet FORCE_FEED=1 dit bewust.
+    """
+    vorig = 0
+    if os.path.exists(filepath):
+        with open(filepath, encoding="utf-8") as f:
+            vorig = f.read().count(tag)
+    print(f"🧮 {aantal} producten nu, {vorig} in de vorige feed")
+
+    if os.environ.get("FORCE_FEED") == "1":
+        print("⚠️  FORCE_FEED=1 — controle overgeslagen.")
+        return
+    if aantal == 0:
+        raise SystemExit(
+            "❌ 0 producten gevonden — feed NIET overschreven. Meestal een "
+            "gewijzigde listing-URL of een bron die plat ligt."
+        )
+    if vorig and aantal < vorig * 0.5:
+        raise SystemExit(
+            f"❌ Slechts {aantal} van de {vorig} producten gevonden (<50%) — feed "
+            "NIET overschreven. Controleer de bron; forceren kan met FORCE_FEED=1."
+        )
+    if vorig and aantal < vorig * 0.9:
+        print(f"⚠️  {aantal} van {vorig} producten ({aantal / vorig:.0%}) — flinke "
+              "daling, feed wél geschreven. Controleer of dat klopt.")
 
 
 # --------------------------------------------------------------------------- #
@@ -100,14 +151,17 @@ def iter_product_slugs(session=None, max_pages=25):
     Alle product-slugs uit /nl-nl/producten?page=0,1,2,… Stopt zodra een pagina
     geen nieuwe slugs oplevert. Dedupe met behoud van volgorde. (Content-pagina's
     komen hier niet voor; de prijs-check bij het scrapen filtert eventuele rest.)
+
+    Een pagina die niet binnenkomt is een fout, géén stopteken. Tot 08-2026 stond
+    hier `break`: één trage listingpagina kapte de catalogus stil af. Op 17-07-2026
+    leverde dat 40 van de 183 producten, waarna Stock Sync er 137 archiveerde die
+    44 dagen uit Google lagen.
     """
     session = session or make_session()
     slugs = []
     seen = set()
     for page in range(max_pages):
-        r = fetch(session, f"{LISTING}?page={page}")
-        if not r:
-            break
+        r = fetch(session, f"{LISTING}?page={page}", verplicht=True)
         found = re.findall(r'/nl-nl/producten/([a-z0-9][a-z0-9\-]*)"', r.text)
         new = [s for s in found if s not in seen]
         if not new:
@@ -376,12 +430,16 @@ def scrape_products(session, slugs, full=True):
     """
     Scrape elke slug. `full=False` (update-feed) doet niets anders qua ophalen,
     maar de aanroeper gebruikt dan alleen prijs/voorraad-velden.
-    Slaat pagina's over die geen product blijken (geen prijs).
+    Slaat pagina's over die geen product blijken (geen prijs) — dat is normaal,
+    de listing bevat ook content-pagina's. Een pagina die door een storing niet
+    binnenkomt wordt daar NIET mee op één hoop gegooid: die laat de run vallen,
+    want stil overslaan is precies hoe producten uit de feed verdwijnen.
     """
     total = len(slugs)
     skipped = 0
     for i, slug in enumerate(slugs, 1):
-        r = fetch(session, f"{BASE}{PRODUCT_PREFIX}{slug}", allow_404=True)
+        r = fetch(session, f"{BASE}{PRODUCT_PREFIX}{slug}",
+                  allow_404=True, verplicht=True)
         if not r:
             skipped += 1
             continue

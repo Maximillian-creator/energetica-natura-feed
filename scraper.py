@@ -66,7 +66,10 @@ def main():
 
     products = list(ec.scrape_products(session, slugs))
     out = "energetica_natura_feed_TEST.xml" if test_slug else OUTPUT_FILE
-    save_xml(build_xml(products), out)
+    root = build_xml(products)
+    if not test_slug:
+        ec.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
+    save_xml(root, out)
 
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {len(products)} producten")
     print("\n📋 Feed-URL voor Stock Sync (Update):")

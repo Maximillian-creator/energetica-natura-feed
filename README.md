@@ -64,6 +64,32 @@ price, compare_at_price, available, product_type, description`, losse secties
 - **Update** → feed-URL: `…/energetica_natura_feed.xml`. Match op `sku` (of `barcode`);
   map `price`, `compare_at_price`, `available`/`quantity`.
 
+## De rem: nooit een halve feed
+
+Stock Sync archiveert producten die niet in de feed staan — stil, zonder melding.
+Op **17-07-2026 om 19:47** schreef deze scraper 40 van de 183 producten weg
+(een listingpagina liep in een timeout en de enumeratie stopte daar gewoon).
+De Stock Sync-run van 18-07 om 03:07 archiveerde daarop **137 producten**, en die
+lagen **44 dagen** uit Google voordat het opviel. Dezelfde storing draaide de feed
+tussen 22-06 en 03-07 op 68–97 producten, en publiceerde 13× een lege feed.
+
+Sindsdien gelden drie regels, alle drie in de code:
+
+| waar | regel |
+|---|---|
+| `fetch(..., verplicht=True)` | een pagina die na 3 pogingen niet komt = **fout**, geen stil `None`. Een echte 404 blijft "geen product". |
+| `iter_product_slugs` | breekt niet meer af op een mislukte listingpagina — de run valt om |
+| `controleer_omvang` | 0 producten, of minder dan **50%** van de vorige feed → **niets wegschrijven** en exit ≠ 0. Tussen 50% en 90% een waarschuwing in de log. |
+
+De GitHub Action wordt dan rood en de commit-stap draait niet, dus de laatste
+goede feed blijft staan. Krimpt Energetica écht, dan forceer je bewust:
+
+```bash
+FORCE_FEED=1 python scraper.py
+```
+
+Getal om te onthouden: de feed hoort rond de **180** producten te zitten.
+
 ## Lokaal draaien / testen
 
 ```bash
