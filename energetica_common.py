@@ -123,23 +123,23 @@ def controleer_omvang(aantal, filepath, tag="<product>"):
     if os.path.exists(filepath):
         with open(filepath, encoding="utf-8") as f:
             vorig = f.read().count(tag)
-    print(f"🧮 {aantal} producten nu, {vorig} in de vorige feed")
+    print(f"🧮 {aantal} feed-regels nu, {vorig} in de vorige feed")
 
     if os.environ.get("FORCE_FEED") == "1":
         print("⚠️  FORCE_FEED=1 — controle overgeslagen.")
         return
     if aantal == 0:
         raise SystemExit(
-            "❌ 0 producten gevonden — feed NIET overschreven. Meestal een "
+            "❌ 0 feed-regels gevonden — feed NIET overschreven. Meestal een "
             "gewijzigde listing-URL of een bron die plat ligt."
         )
     if vorig and aantal < vorig * 0.5:
         raise SystemExit(
-            f"❌ Slechts {aantal} van de {vorig} producten gevonden (<50%) — feed "
+            f"❌ Slechts {aantal} van de {vorig} feed-regels gevonden (<50%) — feed "
             "NIET overschreven. Controleer de bron; forceren kan met FORCE_FEED=1."
         )
     if vorig and aantal < vorig * 0.9:
-        print(f"⚠️  {aantal} van {vorig} producten ({aantal / vorig:.0%}) — flinke "
+        print(f"⚠️  {aantal} van {vorig} feed-regels ({aantal / vorig:.0%}) — flinke "
               "daling, feed wél geschreven. Controleer of dat klopt.")
 
 
