@@ -699,8 +699,8 @@
     <title>Creatine</title>
     <price>49.95</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>creatine</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/68508084-cdea-486d-9fcb-700d2dd26642~143.png</image>
   </product>
@@ -942,7 +942,7 @@
     <price>39.79</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>dopatropic</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/24d5127b-f8f4-42f3-af99-587b5474ccab~127.png</image>
   </product>
