@@ -600,8 +600,8 @@
     <title>ChondroSamine-S</title>
     <price>75.96</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>chondrosamine-s</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/65720d04-1bf0-4c07-902f-513987aad3d6~127.jpg</image>
   </product>
