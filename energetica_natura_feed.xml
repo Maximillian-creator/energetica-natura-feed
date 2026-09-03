@@ -600,8 +600,8 @@
     <title>ChondroSamine-S</title>
     <price>75.96</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>chondrosamine-s</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/65720d04-1bf0-4c07-902f-513987aad3d6~127.jpg</image>
   </product>
@@ -699,8 +699,8 @@
     <title>Creatine</title>
     <price>49.95</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>creatine</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/68508084-cdea-486d-9fcb-700d2dd26642~143.png</image>
   </product>
@@ -934,17 +934,6 @@
     <quantity>100</quantity>
     <handle>d-mulsion-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4fb9e35b-7d79-4c76-88a3-a038855152cf~127.png</image>
-  </product>
-  <product>
-    <sku>KR4730</sku>
-    <barcode>0780053034152</barcode>
-    <title>Dopatropic</title>
-    <price>39.79</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
-    <handle>dopatropic</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/24d5127b-f8f4-42f3-af99-587b5474ccab~127.png</image>
   </product>
   <product>
     <sku>KR4740</sku>
@@ -1909,8 +1898,8 @@
     <title>TMG Powder</title>
     <price>55.88</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>tmg-powder</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
   </product>
