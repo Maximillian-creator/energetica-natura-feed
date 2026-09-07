@@ -30,7 +30,7 @@
   <product>
     <handle>acti-mag-focus</handle>
     <title>Acti-Mag Focus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2465</sku>
     <barcode>0780053010828</barcode>
     <cnk>4966305</cnk>
@@ -60,7 +60,7 @@
   <product>
     <handle>acti-mag-kids-magnesium</handle>
     <title>Acti-Mag Kids (magnesium)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2470</sku>
     <barcode>0780053012129</barcode>
     <cnk>5818331</cnk>
@@ -91,7 +91,7 @@
   <product>
     <handle>acti-mag-magnesium-neutrale-smaak</handle>
     <title>Acti-Mag (magnesium) | Neutrale smaak</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2455</sku>
     <barcode>0780053010187</barcode>
     <cnk>4862264</cnk>
@@ -120,7 +120,7 @@
   <product>
     <handle>acti-mag-plus-magnesium-natuurlijke-bessensmaak</handle>
     <title>Acti-Mag Plus (magnesium) | Natuurlijke bessensmaak</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2450</sku>
     <barcode>0780053034183</barcode>
     <cnk>3197142</cnk>
@@ -150,7 +150,7 @@
   <product>
     <handle>acti-mag-tabs-magnesium</handle>
     <title>Acti-Mag Tabs (magnesium)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2460</sku>
     <barcode>0780053009181</barcode>
     <cnk>4732640</cnk>
@@ -179,7 +179,7 @@
   <product>
     <handle>adek-mulsion</handle>
     <title>ADEK-Mulsion</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VD1522</sku>
     <barcode>0780053008252</barcode>
     <cnk>4280749</cnk>
@@ -205,7 +205,7 @@
   <product>
     <handle>adhs-adrenal-herbal-support</handle>
     <title>ADHS (Adrenal Herbal Support)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Biotics</vendor>
     <sku>ZZ9506A</sku>
     <barcode>0780053034565</barcode>
     <cnk>2382505</cnk>
@@ -261,7 +261,7 @@
   <product>
     <handle>aloepure</handle>
     <title>AloëPure</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>Pure Aloë Vera</vendor>
     <sku>EN0021</sku>
     <barcode>8718144240023</barcode>
     <cnk>2661452</cnk>
@@ -287,7 +287,7 @@
   <product>
     <handle>alpha-lipon-plus-liponzuur</handle>
     <title>Alpha Lipon Plus (Liponzuur)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Biotics</vendor>
     <sku>AO3406</sku>
     <barcode>0780053003370</barcode>
     <cnk>3138203</cnk>
@@ -314,7 +314,7 @@
   <product>
     <handle>amino-acid-quick-sorb</handle>
     <title>Amino Acid Quick-Sorb</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3018</sku>
     <barcode>0780053033360</barcode>
     <cnk>2205904</cnk>
@@ -340,7 +340,7 @@
   <product>
     <handle>amino-sport</handle>
     <title>Amino Sport</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3016</sku>
     <barcode>0780053033353</barcode>
     <cnk>1501154</cnk>
@@ -367,7 +367,7 @@
   <product>
     <handle>mulsion</handle>
     <title>A-Mulsion</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VA1030</sku>
     <barcode>0780053003004</barcode>
     <cnk>4128930</cnk>
@@ -393,7 +393,7 @@
   <product>
     <handle>argentyn-23-first-aid-gel</handle>
     <title>Argentyn 23 - First Aid Gel</title>
-    <vendor>Natural Immunogenics</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>NI0035</sku>
     <barcode>0684088600019</barcode>
     <cnk>2575462</cnk>
@@ -419,7 +419,7 @@
   <product>
     <handle>argentyn-23-ion-water-dropper-top</handle>
     <title>Argentyn 23 Ion Water - Dropper Top</title>
-    <vendor>Natural Immunogenics</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>NI0001</sku>
     <barcode>0684088334051</barcode>
     <cnk>4606935</cnk>
@@ -445,7 +445,7 @@
   <product>
     <handle>argentyn-23-ion-water-mist-spray</handle>
     <title>Argentyn 23 Ion Water - Mist Spray</title>
-    <vendor>Natural Immunogenics</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>NI0002</sku>
     <barcode>0684088334044</barcode>
     <cnk>4606927</cnk>
@@ -470,7 +470,7 @@
   <product>
     <handle>argentyn-23-ion-water-polyseal</handle>
     <title>Argentyn 23 Ion Water - Polyseal</title>
-    <vendor>Natural Immunogenics</vendor>
+    <vendor>Colloïdaal Zilver</vendor>
     <sku>NI0004</sku>
     <barcode>0684088334068</barcode>
     <cnk>4606968</cnk>
@@ -495,7 +495,7 @@
   <product>
     <handle>argentyn-23-ion-water-vertical-spray</handle>
     <title>Argentyn 23 Ion Water - Vertical Spray</title>
-    <vendor>Natural Immunogenics</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>NI0003</sku>
     <barcode>0684088334037</barcode>
     <cnk>4606976</cnk>
@@ -521,7 +521,7 @@
   <product>
     <handle>argizyme</handle>
     <title>Argizyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9510</sku>
     <barcode>0780053034589</barcode>
     <cnk>1696483</cnk>
@@ -604,7 +604,7 @@
   <product>
     <handle>b6-fosfaat</handle>
     <title>B6 Fosfaat</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VB1138</sku>
     <barcode>0780053034251</barcode>
     <cnk>0225235</cnk>
@@ -658,7 +658,7 @@
   <product>
     <handle>bamboe</handle>
     <title>Bamboe</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4705</sku>
     <barcode>0780053003363</barcode>
     <cnk>2897650</cnk>
@@ -685,7 +685,7 @@
   <product>
     <handle>berberol-forte</handle>
     <title>Berberol Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>60 Capsules van Biotics</vendor>
     <sku>ZZ9590</sku>
     <barcode>0780053035012</barcode>
     <cnk>4104204</cnk>
@@ -768,7 +768,7 @@
   <product>
     <handle>bio-cardiozyme-forte</handle>
     <title>Bio-Cardiozyme Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VX1931A</sku>
     <barcode>0780053034442</barcode>
     <cnk>3041969</cnk>
@@ -795,7 +795,7 @@
   <product>
     <handle>biocean-hypertonic-ampullen</handle>
     <title>Biocean Hypertonic ampullen</title>
-    <vendor>Biocean</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>QA0001</sku>
     <barcode>0809690000501</barcode>
     <cnk>2648970</cnk>
@@ -821,7 +821,7 @@
   <product>
     <handle>biocean-hypertonic-fles</handle>
     <title>Biocean Hypertonic fles</title>
-    <vendor>Biocean</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>QA0006</sku>
     <barcode>0809690002406</barcode>
     <cnk>2745289</cnk>
@@ -846,7 +846,7 @@
   <product>
     <handle>biocean-isotonic-ampullen</handle>
     <title>Biocean Isotonic ampullen</title>
-    <vendor>Biocean</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>QA0002</sku>
     <barcode>0809690000204</barcode>
     <cnk>2648988</cnk>
@@ -872,7 +872,7 @@
   <product>
     <handle>biocean-isotonic-fles</handle>
     <title>Biocean Isotonic fles</title>
-    <vendor>Biocean</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>QA0005</sku>
     <barcode>0809690002109</barcode>
     <cnk>2745271</cnk>
@@ -897,7 +897,7 @@
   <product>
     <handle>bi-omega-dha</handle>
     <title>Bi-Omega DHA</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9516</sku>
     <barcode>0780053008429</barcode>
     <cnk>4483491</cnk>
@@ -926,7 +926,7 @@
   <product>
     <handle>bi-omega-liquid</handle>
     <title>Bi-Omega Liquid</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9515</sku>
     <barcode>0780053012228</barcode>
     <cnk>5809991</cnk>
@@ -957,7 +957,7 @@
   <product>
     <handle>bi-omega-1000</handle>
     <title>Bi-Omega-1000</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Visolie</vendor>
     <sku>ZZ9518</sku>
     <barcode>0780053034633</barcode>
     <cnk>4155693</cnk>
@@ -989,7 +989,7 @@
   <product>
     <handle>bi-omega-500</handle>
     <title>Bi-Omega-500</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9517</sku>
     <barcode>0780053034626</barcode>
     <cnk>4155701</cnk>
@@ -1072,7 +1072,7 @@
   <product>
     <handle>biotics-c-plus-1000-mg-vitamine-c</handle>
     <title>Biotics C Plus (1000 mg) (vitamine C)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Hoge dosering</vendor>
     <sku>VC1421</sku>
     <barcode>0780053034329</barcode>
     <cnk>3908225</cnk>
@@ -1099,7 +1099,7 @@
   <product>
     <handle>biotics-c-plus-500-mg-vitamine-c</handle>
     <title>Biotics C Plus (500 mg) (vitamine C)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Vitamine C</vendor>
     <sku>VC1420</sku>
     <barcode>0780053034305</barcode>
     <cnk>3908217</cnk>
@@ -1126,7 +1126,7 @@
   <product>
     <handle>biotics-opc-plus</handle>
     <title>Biotics OPC Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AO3408</sku>
     <barcode>0780053033322</barcode>
     <cnk>4108734</cnk>
@@ -1153,7 +1153,7 @@
   <product>
     <handle>biotics-para</handle>
     <title>Biotics Para</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Supplement van Biotics</vendor>
     <sku>KR4001</sku>
     <barcode>0780053004919</barcode>
     <cnk>3874427</cnk>
@@ -1180,7 +1180,7 @@
   <product>
     <handle>biotics-allay</handle>
     <title>Biotics-Allay</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9554</sku>
     <barcode>0780053034824</barcode>
     <cnk>3871985</cnk>
@@ -1207,7 +1207,7 @@
   <product>
     <handle>blackcurrant-seed-oil-gla</handle>
     <title>Blackcurrant Seed Oil (GLA)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VF1751</sku>
     <barcode>0780053034398</barcode>
     <cnk>2511905</cnk>
@@ -1234,7 +1234,7 @@
   <product>
     <handle>bromelaine-acl</handle>
     <title>Bromelaïne ACL</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>EN3125</sku>
     <barcode>0780053033674</barcode>
     <cnk>2580579</cnk>
@@ -1261,7 +1261,7 @@
   <product>
     <handle>bromelaine-plus</handle>
     <title>Bromelaïne Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>EN3120</sku>
     <barcode>0780053033667</barcode>
     <cnk>1499953</cnk>
@@ -1369,7 +1369,7 @@
   <product>
     <handle>capricin</handle>
     <title>Capricin</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Caprylzuur van Biotics</vendor>
     <sku>ZZ9524</sku>
     <barcode>0780053034657</barcode>
     <cnk>1500727</cnk>
@@ -1396,7 +1396,7 @@
   <product>
     <handle>cats-claw-500mg</handle>
     <title>Cat's Claw 500mg</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>90 Capsules</vendor>
     <sku>EN0080</sku>
     <barcode>8718144240504</barcode>
     <cnk>1500453</cnk>
@@ -1423,7 +1423,7 @@
   <product>
     <handle>chlorocaps</handle>
     <title>Chlorocaps</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9530</sku>
     <barcode>0780053034688</barcode>
     <cnk>1696525</cnk>
@@ -1450,7 +1450,7 @@
   <product>
     <handle>chondroitinesulfaten</handle>
     <title>Chondroïtinesulfaten</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9531A</sku>
     <barcode>0780053034695</barcode>
     <cnk>2357457</cnk>
@@ -1477,7 +1477,7 @@
   <product>
     <handle>chondrosamine-s</handle>
     <title>ChondroSamine-S</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9532</sku>
     <barcode>0780053034701</barcode>
     <cnk>2205896</cnk>
@@ -1504,7 +1504,7 @@
   <product>
     <handle>cmp-minerals</handle>
     <title>CMP-Minerals</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CA2110</sku>
     <barcode>0780053033483</barcode>
     <cnk>4419057</cnk>
@@ -1645,7 +1645,7 @@
   <product>
     <handle>coq-zyme-100-plus</handle>
     <title>Coq-Zyme 100 Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CQ3229</sku>
     <barcode>0780053033568</barcode>
     <cnk>3054293</cnk>
@@ -1672,7 +1672,7 @@
   <product>
     <handle>coq-zyme-30</handle>
     <title>Coq-Zyme 30</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CQ3227</sku>
     <barcode>0780053033551</barcode>
     <cnk>1570514</cnk>
@@ -1699,7 +1699,7 @@
   <product>
     <handle>cranozol</handle>
     <title>Cranozol</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>60 Capsules</vendor>
     <sku>EN0535</sku>
     <barcode>8718144241068</barcode>
     <cnk>4827200</cnk>
@@ -1726,7 +1726,7 @@
   <product>
     <handle>creatine</handle>
     <title>Creatine</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3071</sku>
     <barcode>0780053012204</barcode>
     <cnk>5809975</cnk>
@@ -1756,7 +1756,7 @@
   <product>
     <handle>cr-zyme-gistvrij-200mcg</handle>
     <title>Cr-Zyme gistvrij 200mcg</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CR2230</sku>
     <barcode>0780053033575</barcode>
     <cnk>0683987</cnk>
@@ -1810,7 +1810,7 @@
   <product>
     <handle>cu-zyme-2mg</handle>
     <title>Cu-Zyme 2mg</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CU2320</sku>
     <barcode>0780053033636</barcode>
     <cnk>1500628</cnk>
@@ -1821,10 +1821,10 @@
     <available>true</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Koper (citraat, gluconaat)
-&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 140 mg Erwtenmengsel (Pisum sativum) 2 mg Koper (kopercitraat, kopergluconaat) Ingrediënten vulmiddel: microkristallijne cellulose, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), bindmiddel: stearinezuur, anti-klontermiddel: magnesiumstearaat, kopergluconaat, kopercitraat&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 140 mg Erwtenmengsel (Pisum sativum) 2 mg Koper (kopergluconaat, kopercitraat) Ingrediënten vulmiddel: microkristallijne cellulose, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), bindmiddel: stearinezuur, anti-klontermiddel: magnesiumstearaat, kopergluconaat, kopercitraat&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Standaarddosering: 1 tablet per dag bij de maaltijd&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vrij van:&lt;/strong&gt; Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren&lt;/p&gt;</description>
-    <samenstelling>140 mg Erwtenmengsel (Pisum sativum) 2 mg Koper (kopercitraat, kopergluconaat) Ingrediënten vulmiddel: microkristallijne cellulose, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), bindmiddel: stearinezuur, anti-klontermiddel: magnesiumstearaat, kopergluconaat, kopercitraat</samenstelling>
+    <samenstelling>140 mg Erwtenmengsel (Pisum sativum) 2 mg Koper (kopergluconaat, kopercitraat) Ingrediënten vulmiddel: microkristallijne cellulose, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), bindmiddel: stearinezuur, anti-klontermiddel: magnesiumstearaat, kopergluconaat, kopercitraat</samenstelling>
     <dosering>Standaarddosering: 1 tablet per dag bij de maaltijd</dosering>
     <vrij_van>Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
     <images>
@@ -1837,7 +1837,7 @@
   <product>
     <handle>cytozyme-ad</handle>
     <title>Cytozyme-AD</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>60/180 tabletten</vendor>
     <sku>GL5010</sku>
     <barcode>0780053033797</barcode>
     <cnk>4369393</cnk>
@@ -1864,7 +1864,7 @@
   <product>
     <handle>cytozyme-b</handle>
     <title>Cytozyme-B</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5015</sku>
     <barcode>0780053033810</barcode>
     <cnk>0683995</cnk>
@@ -1891,7 +1891,7 @@
   <product>
     <handle>cytozyme-f</handle>
     <title>Cytozyme-F</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5025</sku>
     <barcode>0780053033858</barcode>
     <cnk>0171488</cnk>
@@ -1918,7 +1918,7 @@
   <product>
     <handle>cytozyme-h</handle>
     <title>Cytozyme-H</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5030</sku>
     <barcode>0780053033865</barcode>
     <cnk>0488510</cnk>
@@ -1945,7 +1945,7 @@
   <product>
     <handle>cytozyme-kd</handle>
     <title>Cytozyme-KD</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5035</sku>
     <barcode>0780053033872</barcode>
     <cnk>1500768</cnk>
@@ -1972,7 +1972,7 @@
   <product>
     <handle>cytozyme-lv</handle>
     <title>Cytozyme-Lv</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5040</sku>
     <barcode>0780053033889</barcode>
     <cnk>0488486</cnk>
@@ -1999,7 +1999,7 @@
   <product>
     <handle>cytozyme-m</handle>
     <title>Cytozyme-M</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5045</sku>
     <barcode>0780053033902</barcode>
     <cnk>0685131</cnk>
@@ -2026,7 +2026,7 @@
   <product>
     <handle>cytozyme-o</handle>
     <title>Cytozyme-O</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5050</sku>
     <barcode>0780053033919</barcode>
     <cnk>1500743</cnk>
@@ -2053,7 +2053,7 @@
   <product>
     <handle>cytozyme-orchic</handle>
     <title>Cytozyme-Orchic</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5055</sku>
     <barcode>0780053033926</barcode>
     <cnk>1500859</cnk>
@@ -2080,7 +2080,7 @@
   <product>
     <handle>cytozyme-pan</handle>
     <title>Cytozyme-Pan</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5061</sku>
     <barcode>0780053009150</barcode>
     <cnk>4727707</cnk>
@@ -2134,7 +2134,7 @@
   <product>
     <handle>cytozyme-sp</handle>
     <title>Cytozyme-SP</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5090</sku>
     <barcode>0780053033971</barcode>
     <cnk>0492090</cnk>
@@ -2161,7 +2161,7 @@
   <product>
     <handle>cytozyme-thy</handle>
     <title>Cytozyme-THY</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5095</sku>
     <barcode>0780053033988</barcode>
     <cnk>1500891</cnk>
@@ -2188,7 +2188,7 @@
   <product>
     <handle>dk-mulsion</handle>
     <title>DK-Mulsion</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VD1530</sku>
     <barcode>0780053008573</barcode>
     <cnk>4611968</cnk>
@@ -2214,7 +2214,7 @@
   <product>
     <handle>d-mulsion-forte-caps-vitamine-d</handle>
     <title>D-Mulsion Forte Caps (vitamine D)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VD1523</sku>
     <barcode>0780053010880</barcode>
     <cnk>4966313</cnk>
@@ -2246,7 +2246,7 @@
   <product>
     <handle>d-mulsion-forte-vitamine-d</handle>
     <title>D-Mulsion Forte (Vitamine D)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Vitamine D</vendor>
     <sku>VD1521</sku>
     <barcode>0780053000492</barcode>
     <cnk>3877263</cnk>
@@ -2277,7 +2277,7 @@
   <product>
     <handle>d-mulsion-kids-vitamine-d</handle>
     <title>D-Mulsion Kids (vitamine D)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VD1519</sku>
     <barcode>780053012143</barcode>
     <cnk>5818323</cnk>
@@ -2307,7 +2307,7 @@
   <product>
     <handle>d-mulsion-vitamine-d</handle>
     <title>D-Mulsion (Vitamine D)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VD1520</sku>
     <barcode>0780053034336</barcode>
     <cnk>3877255</cnk>
@@ -2336,36 +2336,9 @@
     <image_links>https://www.energeticanatura.com/sites/default/files/product-attachments/4fb9e35b-7d79-4c76-88a3-a038855152cf~127.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/596c069b-e87b-45a0-bab3-a9815da40663~127.jpg,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/5f341e58-465b-411c-a26c-02cd212182f3~148.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/fb64129b-bd09-435f-bc70-d9a261f79273~148.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/057b423d-a900-4c6e-95db-3cea6a90ec03~148.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/9a493455-c5e7-4541-b826-eb322e92bf74~148.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/c3e32d73-26f1-409a-bc5c-1c78d6aa41e2~148.png</image_links>
   </product>
   <product>
-    <handle>dopatropic</handle>
-    <title>Dopatropic</title>
-    <vendor>Biotics Research</vendor>
-    <sku>KR4730</sku>
-    <barcode>0780053034152</barcode>
-    <cnk>2924157</cnk>
-    <zindex>15761177</zindex>
-    <content>132 gram</content>
-    <price>39.79</price>
-    <compare_at_price/>
-    <available>true</available>
-    <product_type>Voedingssupplementen</product_type>
-    <description>Fluweelboon (Mucuna pruriens)
-&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 180 mg Fluweelboon (Mucuna pruriens) Ingrediënten fluweelboon, zoetstof: erythritol (natuurlijk koolhydraat)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Standaarddosering: 1 mespuntje (0,5 g) per dag bij de maaltijd(oplossen in water of andere drank) of zoals geadviseerd&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Vrij van:&lt;/strong&gt; Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren&lt;/p&gt;</description>
-    <samenstelling>180 mg Fluweelboon (Mucuna pruriens) Ingrediënten fluweelboon, zoetstof: erythritol (natuurlijk koolhydraat)</samenstelling>
-    <dosering>Standaarddosering: 1 mespuntje (0,5 g) per dag bij de maaltijd(oplossen in water of andere drank) of zoals geadviseerd</dosering>
-    <vrij_van>Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
-    <images>
-      <image>https://www.energeticanatura.com/sites/default/files/product-attachments/24d5127b-f8f4-42f3-af99-587b5474ccab~127.png</image>
-      <image>https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/1a146ad3-7878-41f8-8ce8-5a99607c6dc8~127.png</image>
-      <image>https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/fe5f7c8d-b14b-4f62-b9b2-60bb8e3be64a~127.png</image>
-    </images>
-    <image_links>https://www.energeticanatura.com/sites/default/files/product-attachments/24d5127b-f8f4-42f3-af99-587b5474ccab~127.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/1a146ad3-7878-41f8-8ce8-5a99607c6dc8~127.png,https://www.energeticanatura.com/sites/default/files/styles/product_full/public/product-attachments/fe5f7c8d-b14b-4f62-b9b2-60bb8e3be64a~127.png</image_links>
-  </product>
-  <product>
     <handle>dormavit-plus</handle>
     <title>Dormavit Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4740</sku>
     <barcode>0780053008368</barcode>
     <cnk>4483509</cnk>
@@ -2392,7 +2365,7 @@
   <product>
     <handle>electrolyte-forte</handle>
     <title>Electrolyte Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9504</sku>
     <barcode>0780053009617</barcode>
     <cnk>4822110</cnk>
@@ -2419,7 +2392,7 @@
   <product>
     <handle>e-mulsion-200-vitamine-e</handle>
     <title>E-Mulsion 200 (vitamine E)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VE1660</sku>
     <barcode>0780053034350</barcode>
     <cnk>1502244</cnk>
@@ -2475,7 +2448,7 @@
   <product>
     <handle>fe-zyme-25mg</handle>
     <title>Fe-Zyme 25mg</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>FE2345</sku>
     <barcode>0780053033780</barcode>
     <cnk>1505114</cnk>
@@ -2502,7 +2475,7 @@
   <product>
     <handle>fiber-complete</handle>
     <title>Fiber Complete</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3069</sku>
     <barcode>0780053008306</barcode>
     <cnk>4282430</cnk>
@@ -2529,7 +2502,7 @@
   <product>
     <handle>flax-seed-oil</handle>
     <title>Flax Seed Oil</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VF1720</sku>
     <barcode>0780053034381</barcode>
     <cnk>1502335</cnk>
@@ -2583,7 +2556,7 @@
   <product>
     <handle>floracare-xl</handle>
     <title>Floracare XL</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9514</sku>
     <barcode>0780053034602</barcode>
     <cnk>3922085</cnk>
@@ -2610,7 +2583,7 @@
   <product>
     <handle>fosfatidylcholine</handle>
     <title>Fosfatidylcholine</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VF1700</sku>
     <barcode>0780053034374</barcode>
     <cnk>1511625</cnk>
@@ -2637,7 +2610,7 @@
   <product>
     <handle>gammanol-forte</handle>
     <title>Gammanol Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9541</sku>
     <barcode>0780053010606</barcode>
     <cnk>4918983</cnk>
@@ -2664,7 +2637,7 @@
   <product>
     <handle>garlic-plus</handle>
     <title>Garlic Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4271</sku>
     <barcode>0780053034121</barcode>
     <cnk>1502368</cnk>
@@ -2691,7 +2664,7 @@
   <product>
     <handle>gastrazyme</handle>
     <title>Gastrazyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Vitamine U van Biotics</vendor>
     <sku>VU1815</sku>
     <barcode>0780053034435</barcode>
     <cnk>0669317</cnk>
@@ -2720,7 +2693,7 @@
   <product>
     <handle>ginkgo-biloba-24</handle>
     <title>Ginkgo Biloba (24%)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4181</sku>
     <barcode>0780053034114</barcode>
     <cnk>1502376</cnk>
@@ -2747,7 +2720,7 @@
   <product>
     <handle>glucobalance</handle>
     <title>Glucobalance</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VX1950</sku>
     <barcode>0780053002953</barcode>
     <cnk>1301266</cnk>
@@ -2828,7 +2801,7 @@
   <product>
     <handle>glycozyme-forte</handle>
     <title>Glycozyme Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VX1949</sku>
     <barcode>0780053006241</barcode>
     <cnk>4129524</cnk>
@@ -2855,7 +2828,7 @@
   <product>
     <handle>gsh-plus-gereduceerd-glutathion</handle>
     <title>GSH-Plus (gereduceerd glutathion)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Gereduceerd Glutathion</vendor>
     <sku>AO3450</sku>
     <barcode>0780053008412</barcode>
     <cnk>4483483</cnk>
@@ -2909,7 +2882,7 @@
   <product>
     <handle>gta-forte</handle>
     <title>GTA-Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>90 Capsules van Biotics</vendor>
     <sku>GL5023</sku>
     <barcode>0780053033841</barcode>
     <cnk>2113322</cnk>
@@ -2963,7 +2936,7 @@
   <product>
     <handle>hormone-balance</handle>
     <title>Hormone Balance</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VX1944</sku>
     <barcode>0780053010484</barcode>
     <cnk>4925368</cnk>
@@ -3021,7 +2994,7 @@
   <product>
     <handle>iag-immuno-arabinogalactanen</handle>
     <title>IAG (Immuno Arabinogalactanen)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9542</sku>
     <barcode>0780053034749</barcode>
     <cnk>1696590</cnk>
@@ -3102,7 +3075,7 @@
   <product>
     <handle>inositol</handle>
     <title>Inositol</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VB1170</sku>
     <barcode>0780053034299</barcode>
     <cnk>2596237</cnk>
@@ -3183,7 +3156,7 @@
   <product>
     <handle>jodium-vloeibaar</handle>
     <title>Jodium-vloeibaar</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>IO2330</sku>
     <barcode>0780053034091</barcode>
     <cnk>1696665</cnk>
@@ -3209,7 +3182,7 @@
   <product>
     <handle>kapparest</handle>
     <title>Kapparest</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9550</sku>
     <barcode>0780053034794</barcode>
     <cnk>3319852</cnk>
@@ -3263,7 +3236,7 @@
   <product>
     <handle>k-mulsion</handle>
     <title>K-Mulsion</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VK1790</sku>
     <barcode>0780053034411</barcode>
     <cnk>3932803</cnk>
@@ -3289,7 +3262,7 @@
   <product>
     <handle>k-zyme-99mg</handle>
     <title>K-Zyme 99mg</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KA2635</sku>
     <barcode>0780053034107</barcode>
     <cnk>1502509</cnk>
@@ -3300,10 +3273,10 @@
     <available>true</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Kalium in drie goed opneembare vormen
-&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 130 mg Erwtenmengsel (Pisum sativum) 99 mg Kalium (kaliumgluconaat, kaliumchloride, kaliumcitraat) Ingrediënten kaliumcitraat, kaliumchloride, kaliumgluconaat, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, anti-klontermiddel: magnesiumstearaat, bindmiddel: stearinezuur&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 130 mg Erwtenmengsel (Pisum sativum) 99 mg Kalium (kaliumgluconaat, kaliumcitraat, kaliumchloride) Ingrediënten kaliumcitraat, kaliumchloride, kaliumgluconaat, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, anti-klontermiddel: magnesiumstearaat, bindmiddel: stearinezuur&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Standaarddosering: 3 keer per dag 1 tablet bij de maaltijd&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vrij van:&lt;/strong&gt; Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren&lt;/p&gt;</description>
-    <samenstelling>130 mg Erwtenmengsel (Pisum sativum) 99 mg Kalium (kaliumgluconaat, kaliumchloride, kaliumcitraat) Ingrediënten kaliumcitraat, kaliumchloride, kaliumgluconaat, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, anti-klontermiddel: magnesiumstearaat, bindmiddel: stearinezuur</samenstelling>
+    <samenstelling>130 mg Erwtenmengsel (Pisum sativum) 99 mg Kalium (kaliumgluconaat, kaliumcitraat, kaliumchloride) Ingrediënten kaliumcitraat, kaliumchloride, kaliumgluconaat, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, anti-klontermiddel: magnesiumstearaat, bindmiddel: stearinezuur</samenstelling>
     <dosering>Standaarddosering: 3 keer per dag 1 tablet bij de maaltijd</dosering>
     <vrij_van>Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
     <images>
@@ -3375,7 +3348,7 @@
   <product>
     <handle>l-arginine</handle>
     <title>L-Arginine</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>700 mg</vendor>
     <sku>AZ3025</sku>
     <barcode>0780053033377</barcode>
     <cnk>1511500</cnk>
@@ -3402,7 +3375,7 @@
   <product>
     <handle>l-glutamine-500mg</handle>
     <title>L-Glutamine 500mg</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3035</sku>
     <barcode>0780053033391</barcode>
     <cnk>2580561</cnk>
@@ -3429,7 +3402,7 @@
   <product>
     <handle>livo-guard</handle>
     <title>Livo-Guard</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4292A</sku>
     <barcode>0780053034138</barcode>
     <cnk>2221760</cnk>
@@ -3456,7 +3429,7 @@
   <product>
     <handle>l-lysine-hcl</handle>
     <title>L-Lysine HCL</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3040</sku>
     <barcode>0780053033407</barcode>
     <cnk>1505213</cnk>
@@ -3483,7 +3456,7 @@
   <product>
     <handle>l-tyrosine</handle>
     <title>L-Tyrosine</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>AZ3065</sku>
     <barcode>0780053033438</barcode>
     <cnk>1505247</cnk>
@@ -3618,7 +3591,7 @@
   <product>
     <handle>mg-zyme</handle>
     <title>Mg-Zyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MG2430</sku>
     <barcode>0780053002830</barcode>
     <cnk>1505577</cnk>
@@ -3629,10 +3602,10 @@
     <available>true</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Magnesium (citraat, gluconaat)
-&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 100 mg Magnesium (magnesiumgluconaat, Magnesiumcitraat) 23 mg Erwtenmengsel (Pisum sativum) Ingrediënten magnesiumcitraat, magnesiumgluconaat, capsule: gelatine, water, glycerine, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), anti-klontermiddel: magnesiumzouten van vetzuren, stabilisator: vetzuren&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 100 mg Magnesium (Magnesiumcitraat, magnesiumgluconaat) 23 mg Erwtenmengsel (Pisum sativum) Ingrediënten magnesiumcitraat, magnesiumgluconaat, capsule: gelatine, water, glycerine, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), anti-klontermiddel: magnesiumzouten van vetzuren, stabilisator: vetzuren&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Standaarddosering: 3 keer per dag 1 capsule bij de maaltijdof zoals geadviseerd.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vrij van:&lt;/strong&gt; Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren&lt;/p&gt;</description>
-    <samenstelling>100 mg Magnesium (magnesiumgluconaat, Magnesiumcitraat) 23 mg Erwtenmengsel (Pisum sativum) Ingrediënten magnesiumcitraat, magnesiumgluconaat, capsule: gelatine, water, glycerine, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), anti-klontermiddel: magnesiumzouten van vetzuren, stabilisator: vetzuren</samenstelling>
+    <samenstelling>100 mg Magnesium (Magnesiumcitraat, magnesiumgluconaat) 23 mg Erwtenmengsel (Pisum sativum) Ingrediënten magnesiumcitraat, magnesiumgluconaat, capsule: gelatine, water, glycerine, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), anti-klontermiddel: magnesiumzouten van vetzuren, stabilisator: vetzuren</samenstelling>
     <dosering>Standaarddosering: 3 keer per dag 1 capsule bij de maaltijdof zoals geadviseerd.</dosering>
     <vrij_van>Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
     <images>
@@ -3645,7 +3618,7 @@
   <product>
     <handle>mn-zyme</handle>
     <title>Mn-Zyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MN2525</sku>
     <barcode>0780053035029</barcode>
     <cnk>2318855</cnk>
@@ -3656,10 +3629,10 @@
     <available>true</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Mangaan (citraat, gluconaat)
-&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 120 mg Erwtenmengsel (Pisum sativum) 10 mg Mangaan (mangaancitraat, mangaangluconaat) Ingrediënten pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, mangaangluconaat, mangaancitraat, stabilisator: stearinezuur, geleermiddel: gemodificeerde cellulose, glansmiddel: schellak&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 120 mg Erwtenmengsel (Pisum sativum) 10 mg Mangaan (mangaangluconaat, mangaancitraat) Ingrediënten pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, mangaangluconaat, mangaancitraat, stabilisator: stearinezuur, geleermiddel: gemodificeerde cellulose, glansmiddel: schellak&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Dosering:&lt;/strong&gt; Standaarddosering: 1 tablet per dag bij de maaltijd&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Vrij van:&lt;/strong&gt; Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren&lt;/p&gt;</description>
-    <samenstelling>120 mg Erwtenmengsel (Pisum sativum) 10 mg Mangaan (mangaancitraat, mangaangluconaat) Ingrediënten pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, mangaangluconaat, mangaancitraat, stabilisator: stearinezuur, geleermiddel: gemodificeerde cellulose, glansmiddel: schellak</samenstelling>
+    <samenstelling>120 mg Erwtenmengsel (Pisum sativum) 10 mg Mangaan (mangaangluconaat, mangaancitraat) Ingrediënten pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, mangaangluconaat, mangaancitraat, stabilisator: stearinezuur, geleermiddel: gemodificeerde cellulose, glansmiddel: schellak</samenstelling>
     <dosering>Standaarddosering: 1 tablet per dag bij de maaltijd</dosering>
     <vrij_van>Aardnoten, Conserveringsmiddelen, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
     <images>
@@ -3672,7 +3645,7 @@
   <product>
     <handle>mo-zyme</handle>
     <title>Mo-Zyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MO2620</sku>
     <barcode>0780053034190</barcode>
     <cnk>1505635</cnk>
@@ -3699,7 +3672,7 @@
   <product>
     <handle>msm-1000mg</handle>
     <title>MSM 1000mg</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>60 Capsules</vendor>
     <sku>EN0222</sku>
     <barcode>8718144240160</barcode>
     <cnk>1464403</cnk>
@@ -3805,7 +3778,7 @@
   <product>
     <handle>multi-gland</handle>
     <title>Multi-Gland</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5043</sku>
     <barcode>0780053033896</barcode>
     <cnk>1511575</cnk>
@@ -3832,7 +3805,7 @@
   <product>
     <handle>multi-mins</handle>
     <title>Multi-Mins</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>MX2025A</sku>
     <barcode>0780053002939</barcode>
     <cnk>2261196</cnk>
@@ -3911,7 +3884,7 @@
   <product>
     <handle>nitrogreens</handle>
     <title>NitroGreens</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9575</sku>
     <barcode>0780053034947</barcode>
     <cnk>2823805</cnk>
@@ -3938,7 +3911,7 @@
   <product>
     <handle>nutriclear</handle>
     <title>Nutriclear</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9560</sku>
     <barcode>0780053003110</barcode>
     <cnk>3095650</cnk>
@@ -3965,7 +3938,7 @@
   <product>
     <handle>ontzuringszout</handle>
     <title>Ontzuringszout</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>60 Capsules</vendor>
     <sku>EN0400</sku>
     <barcode>8718144240283</barcode>
     <cnk>1506021</cnk>
@@ -3992,7 +3965,7 @@
   <product>
     <handle>oorganik-15</handle>
     <title>Oorganik-15</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VB1150A</sku>
     <barcode>0780053034268</barcode>
     <cnk>1696632</cnk>
@@ -4019,7 +3992,7 @@
   <product>
     <handle>optic-plus-2</handle>
     <title>Optic Plus 2</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5021</sku>
     <barcode>0780053033827</barcode>
     <cnk>2234359</cnk>
@@ -4046,7 +4019,7 @@
   <product>
     <handle>optimal-efas-bc</handle>
     <title>Optimal EFAs BC</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9509</sku>
     <barcode>0780053008528</barcode>
     <cnk>4537924</cnk>
@@ -4073,7 +4046,7 @@
   <product>
     <handle>osteo-b-plus</handle>
     <title>Osteo-B Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>CA2150</sku>
     <barcode>0780053033520</barcode>
     <cnk>4279063</cnk>
@@ -4100,7 +4073,7 @@
   <product>
     <handle>palmetto-plus</handle>
     <title>Palmetto Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9565</sku>
     <barcode>0780053034909</barcode>
     <cnk>1506039</cnk>
@@ -4127,7 +4100,7 @@
   <product>
     <handle>pneuma-zyme</handle>
     <title>Pneuma-Zyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>GL5075</sku>
     <barcode>0780053033957</barcode>
     <cnk>0482414</cnk>
@@ -4154,7 +4127,7 @@
   <product>
     <handle>porphyra-zyme</handle>
     <title>Porphyra-Zyme</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9567</sku>
     <barcode>0780053034916</barcode>
     <cnk>1271766</cnk>
@@ -4208,7 +4181,7 @@
   <product>
     <handle>pro-symbioflor-immun</handle>
     <title>Pro Symbioflor Immun</title>
-    <vendor>Symbiopharm</vendor>
+    <vendor>50 ml</vendor>
     <sku>SY0011</sku>
     <barcode>8718144240702</barcode>
     <cnk>4776217</cnk>
@@ -4261,7 +4234,7 @@
   <product>
     <handle>receptor-support</handle>
     <title>Receptor Support</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VX1943</sku>
     <barcode>0780053010453</barcode>
     <cnk>4918967</cnk>
@@ -4291,7 +4264,7 @@
   <product>
     <handle>relax-caps</handle>
     <title>Relax Caps</title>
-    <vendor>Energetica Natura</vendor>
+    <vendor>90 capsules</vendor>
     <sku>EN0474</sku>
     <barcode>8718144240481</barcode>
     <cnk>4776191</cnk>
@@ -4321,7 +4294,7 @@
   <product>
     <handle>renal-plus</handle>
     <title>Renal Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9572</sku>
     <barcode>0780053034930</barcode>
     <cnk>1506591</cnk>
@@ -4348,7 +4321,7 @@
   <product>
     <handle>resium</handle>
     <title>Resium</title>
-    <vendor>Lab Miquel y Garriga</vendor>
+    <vendor>Natuurlijke Werking</vendor>
     <sku>EN0475</sku>
     <barcode>8426690000052</barcode>
     <cnk>2681914</cnk>
@@ -4377,7 +4350,7 @@
   <product>
     <handle>resverasirt-hp</handle>
     <title>ResveraSirt-HP</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9521</sku>
     <barcode>0780053034640</barcode>
     <cnk>2580785</cnk>
@@ -4404,7 +4377,7 @@
   <product>
     <handle>rhodiola-complex</handle>
     <title>Rhodiola Complex</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>60 Capsules van Biotics</vendor>
     <sku>ZZ9583</sku>
     <barcode>0780053003851</barcode>
     <cnk>3968468</cnk>
@@ -4431,7 +4404,7 @@
   <product>
     <handle>saccharomyces-boulardii</handle>
     <title>Saccharomyces boulardii</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9503</sku>
     <barcode>0780053009556</barcode>
     <cnk>4796587</cnk>
@@ -4458,7 +4431,7 @@
   <product>
     <handle>samethylate-plus</handle>
     <title>SAMethylate Plus</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9578</sku>
     <barcode>0780053010743</barcode>
     <cnk>4941746</cnk>
@@ -4512,7 +4485,7 @@
   <product>
     <handle>se-zyme-forte</handle>
     <title>Se-Zyme Forte</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>SE2725</sku>
     <barcode>0780053034237</barcode>
     <cnk>0233577</cnk>
@@ -4539,7 +4512,7 @@
   <product>
     <handle>s-free</handle>
     <title>S-Free</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9538A</sku>
     <barcode>0780053010057</barcode>
     <cnk>3631009</cnk>
@@ -4566,7 +4539,7 @@
   <product>
     <handle>symbioflor-1</handle>
     <title>Symbioflor 1</title>
-    <vendor>Symbiopharm</vendor>
+    <vendor>Druppels van Symbiopharm</vendor>
     <sku>SY0015</sku>
     <barcode>8718144240665</barcode>
     <cnk>1278076</cnk>
@@ -4592,7 +4565,7 @@
   <product>
     <handle>symbioflor-2</handle>
     <title>Symbioflor 2</title>
-    <vendor>Symbiopharm</vendor>
+    <vendor>Druppels van Symbiopharm</vendor>
     <sku>SY0016</sku>
     <barcode>8718144240672</barcode>
     <cnk>1278084</cnk>
@@ -4618,7 +4591,7 @@
   <product>
     <handle>symbiointest</handle>
     <title>Symbiointest</title>
-    <vendor>Symbiopharm</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>SY0028</sku>
     <barcode>8718144240696</barcode>
     <cnk>3449675</cnk>
@@ -4672,7 +4645,7 @@
   <product>
     <handle>taurine</handle>
     <title>Taurine</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>100 Capsules</vendor>
     <sku>AZ3058</sku>
     <barcode>0780053033421</barcode>
     <cnk>1506740</cnk>
@@ -4726,7 +4699,7 @@
   <product>
     <handle>tmg-powder</handle>
     <title>TMG Powder</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9586</sku>
     <barcode>0780053035005</barcode>
     <cnk>3536604</cnk>
@@ -4753,7 +4726,7 @@
   <product>
     <handle>tribact</handle>
     <title>TriBact</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZZ9502</sku>
     <barcode>0780053009549</barcode>
     <cnk>4796561</cnk>
@@ -4780,7 +4753,7 @@
   <product>
     <handle>tributyric</handle>
     <title>TriButyric</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>VF1765</sku>
     <barcode>0780053009587</barcode>
     <cnk>4796579</cnk>
@@ -4861,7 +4834,7 @@
   <product>
     <handle>vhp</handle>
     <title>VHP</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>KR4491</sku>
     <barcode>0780053034145</barcode>
     <cnk>1506799</cnk>
@@ -4942,7 +4915,7 @@
   <product>
     <handle>zn-zyme-zink</handle>
     <title>Zn-Zyme (zink)</title>
-    <vendor>Biotics Research</vendor>
+    <vendor>Energetica Natura</vendor>
     <sku>ZN2814</sku>
     <barcode>0780053034534</barcode>
     <cnk>1789510</cnk>
