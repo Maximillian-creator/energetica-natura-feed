@@ -595,17 +595,6 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/212a3b8a-5e4f-4b37-8662-e2cc269eba46~127.png</image>
   </product>
   <product>
-    <sku>ZZ9532</sku>
-    <barcode>0780053034701</barcode>
-    <title>ChondroSamine-S</title>
-    <price>75.96</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>100</quantity>
-    <handle>chondrosamine-s</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/65720d04-1bf0-4c07-902f-513987aad3d6~127.jpg</image>
-  </product>
-  <product>
     <sku>CA2110</sku>
     <barcode>0780053033483</barcode>
     <title>CMP-Minerals</title>
@@ -1558,7 +1547,7 @@
     <price>36.13</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>nac-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c9bb7b37-4c18-4a65-a2a5-034f6b7ae362~127.png</image>
   </product>
