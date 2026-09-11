@@ -722,7 +722,7 @@
     <price>24.12</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>cu-zyme-2mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d3302105-fca1-42c0-8dc6-4ce8fca96fba~127.png</image>
   </product>
@@ -974,8 +974,8 @@
     <title>Fe-Zyme 25mg</title>
     <price>27.99</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>fe-zyme-25mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/5f9cd292-50c7-4e48-835b-63f4ab3c53f6~127.png</image>
   </product>
