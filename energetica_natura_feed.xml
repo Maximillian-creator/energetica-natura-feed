@@ -73,7 +73,7 @@
     <price>50.34</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>adek-mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0397a352-c24e-4d88-853a-bb3878f74365~151.png</image>
   </product>
@@ -491,7 +491,7 @@
     <price>41.10</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>blackcurrant-seed-oil-gla</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4e9a83d4-201e-4f51-9d6a-24b2484782e9~127.png</image>
   </product>
@@ -1305,7 +1305,7 @@
     <price>23.61</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>k-zyme-99mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/1338e1e8-df27-4010-ae98-8d7e2f80ef1f~127.png</image>
   </product>
@@ -1437,7 +1437,7 @@
     <price>33.70</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>mg-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6a4c429c-9b5b-4b34-affa-244a54f846a6~127.png</image>
   </product>
