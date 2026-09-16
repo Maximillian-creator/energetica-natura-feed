@@ -381,7 +381,7 @@
     <price>78.95</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>bi-omega-liquid</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d1356ce4-f1b3-4f63-9c05-e7a841a79fac~143.png</image>
   </product>
@@ -1436,8 +1436,8 @@
     <title>Mg-Zyme</title>
     <price>33.70</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>mg-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6a4c429c-9b5b-4b34-affa-244a54f846a6~127.png</image>
   </product>
@@ -1514,7 +1514,7 @@
     <price>46.30</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
@@ -1888,7 +1888,7 @@
     <price>55.88</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>tmg-powder</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
   </product>
