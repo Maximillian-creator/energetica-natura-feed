@@ -1029,8 +1029,8 @@
     <title>Fosfatidylcholine</title>
     <price>44.90</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>fosfatidylcholine</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/101e928b-2092-4056-b28b-f20f9e293f15~127.png</image>
   </product>
