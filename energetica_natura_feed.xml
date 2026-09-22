@@ -1546,8 +1546,8 @@
     <title>NAC Plus</title>
     <price>36.13</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>nac-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c9bb7b37-4c18-4a65-a2a5-034f6b7ae362~127.png</image>
   </product>
