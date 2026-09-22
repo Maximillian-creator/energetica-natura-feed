@@ -490,8 +490,8 @@
     <title>Blackcurrant Seed Oil (GLA)</title>
     <price>41.10</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>blackcurrant-seed-oil-gla</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4e9a83d4-201e-4f51-9d6a-24b2484782e9~127.png</image>
   </product>
@@ -502,7 +502,7 @@
     <price>37.54</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>bromelaine-acl</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/193b07bb-f551-4d68-bffe-e5cfc20f248f~127.png</image>
   </product>
@@ -777,7 +777,7 @@
     <price>31.04</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>cytozyme-kd</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6ead37a4-d23a-46d6-8f40-64212884e56c~127.jpg</image>
   </product>
@@ -1063,7 +1063,7 @@
     <price>44.47</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>gastrazyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/db2a5520-64d9-4602-a8ef-cc431723d2f5~144.jpg</image>
   </product>
