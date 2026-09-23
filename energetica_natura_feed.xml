@@ -854,7 +854,7 @@
     <price>31.63</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>cytozyme-sp</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/31142f0b-958f-4511-9c66-d9fde5f99358~127.jpg</image>
   </product>
@@ -1572,6 +1572,17 @@
     <quantity>100</quantity>
     <handle>nutriclear</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d489b25a-a553-4df6-9662-592d7086e8a9~127.png</image>
+  </product>
+  <product>
+    <sku>EN0398</sku>
+    <barcode>08718144241228</barcode>
+    <title>Omega-3 Kids</title>
+    <price>29.16</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <handle>omega-3-kids</handle>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c7c59f02-ca77-4c36-adad-8cf6278b9cd3~151.png</image>
   </product>
   <product>
     <sku>EN0400</sku>
