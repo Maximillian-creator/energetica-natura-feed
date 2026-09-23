@@ -1200,6 +1200,17 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/24c0341c-43aa-4173-9b47-30a0418021a2~127.png</image>
   </product>
   <product>
+    <sku>EN0397</sku>
+    <barcode>08718144241242</barcode>
+    <title>Immunity Kids</title>
+    <price>23.93</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <handle>immunity-kids</handle>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/a16b459a-457d-45bf-a428-34e88e02b92b~151.png</image>
+  </product>
+  <product>
     <sku>EN0395</sku>
     <barcode>8718144240962</barcode>
     <title>Immunozol</title>
@@ -1415,7 +1426,7 @@
     <price>61.04</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>meda-stim</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c2f28583-5575-4e81-85f5-f3e542f60e0e~127.png</image>
   </product>
