@@ -897,8 +897,8 @@
     <title>D-Mulsion Forte (Vitamine D)</title>
     <price>39.80</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>d-mulsion-forte-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7c2d0b7b-5526-4682-905e-2530f9f593c7~127.png</image>
   </product>
