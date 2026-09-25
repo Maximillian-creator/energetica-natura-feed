@@ -436,7 +436,7 @@
     <price>43.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>biotics-c-plus-1000-mg-vitamine-c</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/1a1abaf8-670f-482d-ba8c-108cfc6b5b89~127.jpg</image>
   </product>
@@ -490,8 +490,8 @@
     <title>Blackcurrant Seed Oil (GLA)</title>
     <price>41.10</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>blackcurrant-seed-oil-gla</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4e9a83d4-201e-4f51-9d6a-24b2484782e9~127.png</image>
   </product>
@@ -502,7 +502,7 @@
     <price>37.54</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>bromelaine-acl</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/193b07bb-f551-4d68-bffe-e5cfc20f248f~127.png</image>
   </product>
@@ -722,7 +722,7 @@
     <price>24.12</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cu-zyme-2mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d3302105-fca1-42c0-8dc6-4ce8fca96fba~127.png</image>
   </product>
@@ -777,7 +777,7 @@
     <price>31.04</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cytozyme-kd</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6ead37a4-d23a-46d6-8f40-64212884e56c~127.jpg</image>
   </product>
@@ -854,7 +854,7 @@
     <price>31.63</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cytozyme-sp</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/31142f0b-958f-4511-9c66-d9fde5f99358~127.jpg</image>
   </product>
@@ -887,7 +887,7 @@
     <price>24.93</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>d-mulsion-forte-caps-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d0d92e5f-4353-466f-97d7-d6fec385c245~127.png</image>
   </product>
@@ -897,8 +897,8 @@
     <title>D-Mulsion Forte (Vitamine D)</title>
     <price>39.80</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>d-mulsion-forte-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7c2d0b7b-5526-4682-905e-2530f9f593c7~127.png</image>
   </product>
@@ -1316,7 +1316,7 @@
     <price>23.61</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>k-zyme-99mg</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/1338e1e8-df27-4010-ae98-8d7e2f80ef1f~127.png</image>
   </product>
@@ -1426,7 +1426,7 @@
     <price>61.04</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>meda-stim</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/c2f28583-5575-4e81-85f5-f3e542f60e0e~127.png</image>
   </product>
@@ -1910,7 +1910,7 @@
     <price>55.88</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>tmg-powder</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/077ac6ee-becd-4429-bfee-ffaa2a46411b~127.png</image>
   </product>
