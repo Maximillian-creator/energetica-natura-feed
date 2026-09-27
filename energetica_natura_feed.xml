@@ -72,8 +72,8 @@
     <title>ADEK-Mulsion</title>
     <price>50.34</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>adek-mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0397a352-c24e-4d88-853a-bb3878f74365~151.png</image>
   </product>
