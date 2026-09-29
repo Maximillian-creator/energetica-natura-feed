@@ -380,8 +380,8 @@
     <title>Bi-Omega Liquid</title>
     <price>78.95</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>bi-omega-liquid</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d1356ce4-f1b3-4f63-9c05-e7a841a79fac~143.png</image>
   </product>
@@ -414,7 +414,7 @@
     <price>43.06</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>biotics-6-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/3d893884-4449-4b8e-9cd7-2466b6e2d017~144.jpg</image>
   </product>
@@ -898,7 +898,7 @@
     <price>39.80</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>d-mulsion-forte-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7c2d0b7b-5526-4682-905e-2530f9f593c7~127.png</image>
   </product>
@@ -1524,8 +1524,8 @@
     <title>Multi-Gland</title>
     <price>46.30</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
