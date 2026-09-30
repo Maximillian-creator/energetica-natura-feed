@@ -380,8 +380,8 @@
     <title>Bi-Omega Liquid</title>
     <price>78.95</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>bi-omega-liquid</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d1356ce4-f1b3-4f63-9c05-e7a841a79fac~143.png</image>
   </product>
@@ -392,7 +392,7 @@
     <price>69.78</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>bi-omega-1000</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7ad03612-ba90-4e93-a871-43d8e1d8d007~144.jpg</image>
   </product>
@@ -1029,8 +1029,8 @@
     <title>Fosfatidylcholine</title>
     <price>44.90</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>fosfatidylcholine</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/101e928b-2092-4056-b28b-f20f9e293f15~127.png</image>
   </product>
@@ -1470,7 +1470,7 @@
     <price>24.12</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>mo-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bffb2078-9a44-4401-9d31-674904caebab~127.jpg</image>
   </product>
@@ -1524,8 +1524,8 @@
     <title>Multi-Gland</title>
     <price>46.30</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
