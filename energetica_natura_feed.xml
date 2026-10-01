@@ -408,17 +408,6 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/6e01d974-3f7a-45e3-a717-2c77e31db4dc~127.jpg</image>
   </product>
   <product>
-    <sku>EN3114</sku>
-    <barcode>0780053033650</barcode>
-    <title>Biotics 6-Plus</title>
-    <price>43.06</price>
-    <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
-    <handle>biotics-6-plus</handle>
-    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/3d893884-4449-4b8e-9cd7-2466b6e2d017~144.jpg</image>
-  </product>
-  <product>
     <sku>VC1422</sku>
     <barcode>0780053002984</barcode>
     <title>Biotics C Plus (1000 mg) 300 tab (vitamine C)</title>
@@ -898,7 +887,7 @@
     <price>39.80</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>d-mulsion-forte-vitamine-d</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/7c2d0b7b-5526-4682-905e-2530f9f593c7~127.png</image>
   </product>
@@ -1063,7 +1052,7 @@
     <price>44.47</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>gastrazyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/db2a5520-64d9-4602-a8ef-cc431723d2f5~144.jpg</image>
   </product>
@@ -1409,6 +1398,17 @@
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/db0c95db-eea3-4cae-8876-e05c7c5acb69~127.png</image>
   </product>
   <product>
+    <sku>EN3112</sku>
+    <barcode>0780053012518</barcode>
+    <title>Macro-Zyme (voorheen Biotics 6-Plus)</title>
+    <price>39.99</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <handle>macro-zyme-voorheen-biotics-6-plus</handle>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0c941f4e-9cd5-4fde-9a81-4834a9b17838~151.png</image>
+  </product>
+  <product>
     <sku>ZZ9555</sku>
     <barcode>0780053034831</barcode>
     <title>MCS-2 (Metabolic Clearing Support)</title>
@@ -1470,7 +1470,7 @@
     <price>24.12</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>mo-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bffb2078-9a44-4401-9d31-674904caebab~127.jpg</image>
   </product>
