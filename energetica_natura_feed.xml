@@ -414,7 +414,7 @@
     <price>103.86</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>biotics-c-plus-1000-mg-300-tab-vitamine-c</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/3214079c-420f-4d72-9540-3ae1b6cfd4ff~127.jpg</image>
   </product>
@@ -568,7 +568,7 @@
     <price>50.91</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>chlorocaps</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/d8d36fbc-3fb2-467e-aef7-033ad1009cf1~127.png</image>
   </product>
@@ -590,7 +590,7 @@
     <price>24.82</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cmp-minerals</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b2f83e1d-f8da-4a5f-81ba-4a9849143c63~127.jpg</image>
   </product>
@@ -942,7 +942,7 @@
     <price>48.44</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>e-mulsion-200-vitamine-e</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/cd2f783e-b61d-4b0c-8142-001f65ee3ec3~128.jpg</image>
   </product>
@@ -1184,7 +1184,7 @@
     <price>74.10</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>iag-immuno-arabinogalactanen</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/24c0341c-43aa-4173-9b47-30a0418021a2~127.png</image>
   </product>
