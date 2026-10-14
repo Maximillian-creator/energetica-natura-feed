@@ -942,7 +942,7 @@
     <price>48.44</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>e-mulsion-200-vitamine-e</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/cd2f783e-b61d-4b0c-8142-001f65ee3ec3~128.jpg</image>
   </product>
@@ -1019,7 +1019,7 @@
     <price>44.90</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>fosfatidylcholine</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/101e928b-2092-4056-b28b-f20f9e293f15~127.png</image>
   </product>
@@ -1525,7 +1525,7 @@
     <price>46.30</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
@@ -1679,7 +1679,7 @@
     <price>37.45</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>porphyra-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/99f17ad8-42fc-442c-8d8a-52e972602832~127.jpg</image>
   </product>
