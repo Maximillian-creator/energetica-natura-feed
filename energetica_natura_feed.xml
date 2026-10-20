@@ -1414,8 +1414,8 @@
     <title>MCS-2 (Metabolic Clearing Support)</title>
     <price>64.35</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>mcs-2-metabolic-clearing-support</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/5eb309d9-6eea-4495-8c4e-e14d97059b95~127.png</image>
   </product>
