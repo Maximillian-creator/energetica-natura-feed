@@ -72,8 +72,8 @@
     <title>ADEK-Mulsion</title>
     <price>50.34</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>adek-mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0397a352-c24e-4d88-853a-bb3878f74365~151.png</image>
   </product>
@@ -447,7 +447,7 @@
     <price>62.75</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>biotics-opc-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/77440681-4cb5-498d-8556-52ad86200d70~127.png</image>
   </product>
@@ -1462,6 +1462,17 @@
     <quantity>100</quantity>
     <handle>mn-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f6d1b52d-5804-42d5-8fea-e23726fbf179~127.jpg</image>
+  </product>
+  <product>
+    <sku>EN3115</sku>
+    <barcode>0780053012495</barcode>
+    <title>Motility-Zyme</title>
+    <price>36.95</price>
+    <compare_at_price/>
+    <available>true</available>
+    <quantity>100</quantity>
+    <handle>motility-zyme</handle>
+    <image>https://www.energeticanatura.com/sites/default/files/product-attachments/8ae84673-367f-4702-89af-4d9a137e398f~151.png</image>
   </product>
   <product>
     <sku>MO2620</sku>
