@@ -854,7 +854,7 @@
     <price>34.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>cytozyme-thy</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f886562b-ec31-4b87-adce-e981794c9d3f~151.png</image>
   </product>
@@ -1535,8 +1535,8 @@
     <title>Multi-Gland</title>
     <price>46.30</price>
     <compare_at_price/>
-    <available>true</available>
-    <quantity>5</quantity>
+    <available>false</available>
+    <quantity>0</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
@@ -1557,8 +1557,8 @@
     <title>Multi-Plus-vloeibaar</title>
     <price>62.09</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>multi-plus-vloeibaar</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
   </product>
@@ -1690,7 +1690,7 @@
     <price>37.45</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>porphyra-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/99f17ad8-42fc-442c-8d8a-52e972602832~127.jpg</image>
   </product>
@@ -1723,7 +1723,7 @@
     <price>52.33</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>protect-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
   </product>
