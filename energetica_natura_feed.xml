@@ -854,7 +854,7 @@
     <price>34.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cytozyme-thy</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/f886562b-ec31-4b87-adce-e981794c9d3f~151.png</image>
   </product>
@@ -1041,7 +1041,7 @@
     <price>43.74</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>garlic-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/e4ef1d66-9754-4cfb-b7b6-807837bf8317~127.png</image>
   </product>
@@ -1553,7 +1553,7 @@
   </product>
   <product>
     <sku>VX1946</sku>
-    <barcode>0780053034497</barcode>
+    <barcode>00780053012532</barcode>
     <title>Multi-Plus-vloeibaar</title>
     <price>62.09</price>
     <compare_at_price/>
