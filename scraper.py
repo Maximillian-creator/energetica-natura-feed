@@ -69,6 +69,9 @@ def main():
     root = build_xml(products)
     if not test_slug:
         ec.controleer_omvang(len(root.findall("product")), OUTPUT_FILE)
+    if not test_slug:
+        import prijsrem
+        print(prijsrem.verslag(prijsrem.pas_toe(root, OUTPUT_FILE)))
     save_xml(root, out)
 
     print(f"⏱️  Klaar in {time.time() - start:.0f}s — {len(products)} producten")
