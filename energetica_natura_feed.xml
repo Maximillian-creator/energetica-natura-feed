@@ -73,7 +73,7 @@
     <price>50.34</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>adek-mulsion</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0397a352-c24e-4d88-853a-bb3878f74365~151.png</image>
   </product>
@@ -656,7 +656,7 @@
     <price>53.03</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>coq-zyme-30</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0f575db4-19a1-450f-9fb2-a794422b5529~127.png</image>
   </product>
@@ -1535,8 +1535,8 @@
     <title>Multi-Gland</title>
     <price>46.30</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>5</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
@@ -1756,7 +1756,7 @@
     <price>44.90</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>renal-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/50d47636-aff8-4284-9809-052b336401ab~151.png</image>
   </product>
