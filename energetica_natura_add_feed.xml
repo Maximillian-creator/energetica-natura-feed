@@ -2861,7 +2861,7 @@
     <content>90 tabletten</content>
     <price>26.45</price>
     <compare_at_price/>
-    <available>true</available>
+    <available>false</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Complex van o.a. betaïne HCl
 &lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 115 mg Betaïne HCl (trimethylglycine HCl) 100 mg Erwtenmengsel (Pisum sativum) 50 mg Glutaminezuur (hydrochloride) 35 mg Ammoniumchloride 10 mg Pepsine (1:10.000) 2 mg Vitamine B6 (pyridoxinehydrochloride) Ingrediënten trimethylglycine hcl, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), vulmiddel: microkristallijne cellulose, hydrochloride, ammoniumchloride, disintegrant: gemodificeerde cellulosegom, bindmiddel: stearinezuur, pepsine, pyridoxinehydrochloride&lt;/p&gt;
@@ -3807,7 +3807,7 @@
     <content>60 tabletten</content>
     <price>46.30</price>
     <compare_at_price/>
-    <available>false</available>
+    <available>true</available>
     <product_type>Voedingssupplementen</product_type>
     <description>Klier- en organencomplex (glandulars)
 &lt;p&gt;&lt;strong&gt;Samenstelling:&lt;/strong&gt; 500 mg Complex van klier- en orgaanconcentraten (van neonataal rund &amp;amp; varken - Bos taurus &amp;amp; Sus domesticus: actiVcell®): (Bijnierconcentraat (van neonataal rund &amp;amp; varken), Hartconcentraat (van neonataal rund &amp;amp; varken), Leverconcentraat (van neonataal rund &amp;amp; varken), Longconcentraat (van neonataal rund &amp;amp; varken), Miltconcentraat (van neonataal rund &amp;amp; varken), Nierconcentraat (van neonataal rund &amp;amp; varken), Pancreasconcentraat (van neonataal rund &amp;amp; varken), Thymusconcentraat (van neonataal rund &amp;amp; varken), Darmconcentraat (van neonataal lam), Hersenconcentraat (van neonataal lam), Hypofyse- &amp;amp; hypothalamus concentraat (van neonataal lam)) 100 mg Erwtenmengsel (Pisum sativum) Ingrediënten complex van klier- en orgaanconcentraten (bos taurus &amp;amp; sus domesticus: actiVcell®), vulmiddel: microkristallijne cellulose, pisum sativum (actiVbase®: biologische plantencultuur, bevat van nature polyfenolen, SOD en catalase), bindmiddel: stearinezuur, coating: schellak, anti-klontermiddel: magnesiumstearaat, siliciumdioxide&lt;/p&gt;
@@ -3871,9 +3871,9 @@
     <dosering>Standaarddosering per dag: 1 keer per dag 0.5 eetlepel bij de maaltijd. Mag vermengd worden in water, een andere drank of wat yoghurt.</dosering>
     <vrij_van>Aardnoten, Ei, Gist, Gluten, Lupine, Melk (inclusief lactose), Mosterd, Noten, Schaaldieren, Selderij, Sesam, Soja, Suiker, Sulfiet, Synthetische geur-, kleur- en smaakstoffen, Vis, Weekdieren</vrij_van>
     <images>
-      <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image>
+      <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~151.png</image>
     </images>
-    <image_links>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~127.png</image_links>
+    <image_links>https://www.energeticanatura.com/sites/default/files/product-attachments/bf3f91b9-3778-421a-98ec-f78794f13fe5~151.png</image_links>
   </product>
   <product>
     <handle>nac-plus</handle>
