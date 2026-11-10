@@ -117,7 +117,7 @@
     <price>45.35</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>alpha-lipon-plus-liponzuur</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/1ee3e36f-9bb6-48d4-b870-f3feceee5a1a~126.jpg</image>
   </product>
@@ -535,7 +535,7 @@
     <price>39.71</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>camg-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4f93b039-76fa-4691-ad43-46ca4074cecc~127.jpg</image>
   </product>
@@ -843,7 +843,7 @@
     <price>31.63</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>cytozyme-sp</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/31142f0b-958f-4511-9c66-d9fde5f99358~127.jpg</image>
   </product>
@@ -1150,8 +1150,8 @@
     <title>HCL-Plus</title>
     <price>26.45</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>hcl-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/8a821423-372a-4756-b00c-1b182082005a~127.jpg</image>
   </product>
@@ -1481,7 +1481,7 @@
     <price>24.12</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>mo-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/bffb2078-9a44-4401-9d31-674904caebab~127.jpg</image>
   </product>
@@ -1536,7 +1536,7 @@
     <price>46.30</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>multi-gland</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/b179d0e1-19a6-4786-8372-943cf23f0c5e~127.jpg</image>
   </product>
@@ -1723,7 +1723,7 @@
     <price>52.33</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>protect-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/ac0ceb38-68bd-44d4-95c5-b9ffb8fa24c2~127.jpg</image>
   </product>
