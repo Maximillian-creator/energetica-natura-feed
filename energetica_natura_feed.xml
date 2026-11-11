@@ -777,7 +777,7 @@
     <price>30.43</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>cytozyme-lv</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/16b7ead6-7d6c-4f9a-b60e-7d59dd437310~128.jpg</image>
   </product>
@@ -1679,7 +1679,7 @@
     <price>46.38</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>100</quantity>
+    <quantity>5</quantity>
     <handle>pneuma-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/912bb83a-7d31-4bcb-82b0-a5b7fd0e99ee~127.png</image>
   </product>
