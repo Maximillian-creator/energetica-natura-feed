@@ -457,8 +457,8 @@
     <title>Biotics Para</title>
     <price>36.83</price>
     <compare_at_price/>
-    <available>false</available>
-    <quantity>0</quantity>
+    <available>true</available>
+    <quantity>100</quantity>
     <handle>biotics-para</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/a5235a9b-6b82-4897-9dff-ee1f8970cd4d~127.png</image>
   </product>
@@ -535,7 +535,7 @@
     <price>39.71</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>camg-zyme</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/4f93b039-76fa-4691-ad43-46ca4074cecc~127.jpg</image>
   </product>
@@ -656,7 +656,7 @@
     <price>53.03</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>coq-zyme-30</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/0f575db4-19a1-450f-9fb2-a794422b5529~127.png</image>
   </product>
@@ -1096,7 +1096,7 @@
     <price>55.58</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>gluterase</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/86e0c1d7-23d2-4b47-af60-a65b299b7462~127.jpg</image>
   </product>
@@ -1756,7 +1756,7 @@
     <price>44.90</price>
     <compare_at_price/>
     <available>true</available>
-    <quantity>5</quantity>
+    <quantity>100</quantity>
     <handle>renal-plus</handle>
     <image>https://www.energeticanatura.com/sites/default/files/product-attachments/50d47636-aff8-4284-9809-052b336401ab~151.png</image>
   </product>
